@@ -1,0 +1,28 @@
+# ---- Personal data: never commit ----
+# Real CV with phone/email (the public repo uses master_cv.example.yaml)
+config/master_cv.yaml
+# Applications, notes and hand-added roles
+data/private/
+# Legacy locations from earlier versions
+data/applications.json
+data/manual_jobs.csv
+# Passwords, tokens, MASTER_CV
+.streamlit/secrets.toml
+.env
+.env.*
+*.pem
+*.key
+
+# ---- Generated / local ----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.db-journal
+*.db-wal
+*.db-shm
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-29",
+  "run_at": "2026-09-29T21:52:00+00:00",
+  "new_relevant": 2,
+  "new_tier1": 1,
+  "new_tier2": 1,
+  "new_unclear": 0,
+  "closed": 0,
+  "open": 14,
+  "boards_configured": 8,
+  "boards_checked": 7,
+  "boards_failed": 1,
+  "boards": [
+    {
+      "board": "greenhouse:harbourline",
+      "ok": true,
+      "fetched": 20,
+      "kept": 2,
+      "error": ""
+    },
+    {
+      "board": "greenhouse:tidewater",
+      "ok": true,
+      "fetched": 20,
+      "kept": 1,
+      "error": ""
+    },
+    {
+      "board": "greenhouse:vector",
+      "ok": true,
+      "fetched": 20,
+      "kept": 1,
+      "error": ""
+    },
+    {
+      "board": "internsg",
+      "ok": true,
+      "fetched": 20,
+      "kept": 5,
+      "error": ""
+    },
+    {
+      "board": "workable:ledgerleaf",
+      "ok": true,
+      "fetched": 20,
+      "kept": 1,
+      "error": ""
+    },
+    {
+      "board": "workday:merlion",
+      "ok": true,
+      "fetched": 20,
+      "kept": 2,
+      "error": ""
+    },
+    {
+      "board": "workday:orchid",
+      "ok": true,
+      "fetched": 20,
+      "kept": 2,
+      "error": ""
+    },
+    {
+      "board": "workday:example-offline",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "ConnectionError: demo failure"
+    }
+  ]
+}

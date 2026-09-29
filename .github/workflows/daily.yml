@@ -1,0 +1,67 @@
+name: InternRadar daily run
+
+on:
+  schedule:
+    # GitHub cron runs in UTC and has no daylight saving. 21:52 UTC is:
+    #   7:52am Melbourne during AEST (early April – early October)
+    #   8:52am Melbourne during AEDT (early October – early April)
+    - cron: "52 21 * * *"
+  workflow_dispatch: {}   # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write   # commit the refreshed public job data
+  issues: write     # open an issue when new relevant roles appear
+
+concurrency:
+  group: internradar-daily
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # 1. Never collect with broken code.
+      - name: Tests
+        run: pytest -q
+
+      # 2. Collect. Exits non-zero only if NO board could be checked (GitHub then emails you).
+      #    Individual board failures are listed in the report instead.
+      - name: Collect today's postings
+        run: python -m radar.pipeline run
+
+      - name: Write run summary
+        if: always()
+        run: |
+          if [ -f data/changes/latest.md ]; then cat data/changes/latest.md >> "$GITHUB_STEP_SUMMARY"; fi
+
+      # 3. Save the public job data (no personal data lives in data/radar.db or data/jobs.csv).
+      - name: Commit data
+        run: |
+          git config user.name "InternRadar bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/radar.db data/jobs.csv data/changes data/last_run.json
+          git diff --cached --quiet || git commit -m "InternRadar data $(date -u +%F)"
+          git pull --rebase --autostash
+          git push
+
+      # 4. Notify only when there is something genuinely new (Tier 1 or Tier 2), not every day.
+      - name: Open an issue for new roles
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          NEW=$(python -c "import json;print(json.load(open('data/last_run.json'))['new_relevant'])")
+          if [ "$NEW" -gt 0 ]; then
+            gh issue create --title "InternRadar: $NEW new role(s) — $(date -u +%d\ %b\ %Y)" --body-file data/changes/latest.md
+          else
+            echo "No new relevant roles today; no issue opened."
+          fi

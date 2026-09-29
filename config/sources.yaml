@@ -1,0 +1,60 @@
+# Where InternRadar looks. Every source is the public endpoint a company's own careers page uses.
+# Add or remove boards freely: a board that fails is logged and skipped without stopping the run,
+# and its postings are never marked closed on a failed check.
+#
+# Verification: on 2026-09-29 every board below answered its list endpoint (checked from a browser).
+# That shows the configuration is right; it is not a guarantee a board will keep working.
+# Re-check any time with:  python -m radar.pipeline check
+
+greenhouse:           # https://boards-api.greenhouse.io/v1/boards/<token>/jobs
+  - {token: drweng, company: DRW}
+  - {token: quberesearchandtechnologies, company: Qube Research & Technologies}
+  - {token: squarepointcapital, company: Squarepoint Capital}
+  - {token: optiverus, company: Optiver}
+  - {token: jumptrading, company: Jump Trading}
+  - {token: janestreet, company: Jane Street}
+  - {token: virtu, company: Virtu Financial}
+  - {token: point72, company: Point72}
+  - {token: akunacapital, company: Akuna Capital}
+  - {token: towerresearchcapital, company: Tower Research Capital}
+  - {token: stepstone, company: StepStone Group}
+  - {token: generalatlantic, company: General Atlantic}
+  - {token: stripe, company: Stripe}
+  - {token: xendit, company: Xendit}
+  - {token: thunes, company: Thunes}
+  - {token: coinbase, company: Coinbase}
+  - {token: binance, company: Binance}
+  - {token: okx, company: OKX}
+
+workday:              # https://<tenant>.<host>.myworkdayjobs.com/<site>
+  - {tenant: ocbc, host: wd102, site: External, company: OCBC}
+  - {tenant: keppel, host: wd3, site: KeppelCareers, company: Keppel}
+  - {tenant: capitaland, host: wd3, site: CapitaLandGroup, company: CapitaLand}
+  - {tenant: mufgub, host: wd3, site: MUFG-EarlyCareers, company: MUFG}
+  - {search: intern singapore, tenant: blackstone, host: wd1, site: Blackstone_Campus_Careers, company: Blackstone}
+  - {tenant: glencorecorp, host: wd3, site: External, company: Glencore}
+  - {search: intern singapore, tenant: pwc, host: wd3, site: Global_Campus_Careers, company: PwC}
+  - {search: intern singapore, tenant: tencent, host: wd1, site: Tencent_Careers, company: Tencent}
+  - {tenant: fwd, host: wd3, site: FWDcareersite, company: FWD Insurance}
+  - {search: intern singapore, tenant: hlb, host: wd3, site: HLBCareers, company: Hong Leong Bank}
+  - {search: intern singapore, tenant: ing, host: wd3, site: ICSGBLCOR, company: ING}
+  - {search: intern singapore, tenant: ardian, host: wd103, site: ArdianCareers, company: Ardian}
+  - {tenant: rhb, host: wd102, site: RHBExternalCareerSite, company: RHB}
+  - {search: intern singapore, tenant: cdpq, host: wd10, site: CDPQ-recrutement-universitaire, company: La Caisse (CDPQ)}
+
+workable:             # https://apply.workable.com/<account>
+  - {account: qcp-group, company: QCP}
+  - {account: moomoo, company: Moomoo}
+  - {account: iglooinsure, company: Igloo}
+
+internsg:             # https://www.internsg.com/jobs/
+  max_pages: 4
+  listing_queries:
+    - "?f_p=164&filter_s=Intern"          # Banking / Finance profession
+    - "?filter_s=data+analyst"
+    - "?filter_s=analytics"
+    - "?filter_s=investment"
+    - "?filter_s=treasury"
+    - "?filter_s=trading"
+    - "?filter_s=strategy"
+    - "?filter_s=business+analyst"

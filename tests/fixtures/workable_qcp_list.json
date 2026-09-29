@@ -1,0 +1,71 @@
+{
+ "total": 3,
+ "results": [
+  {
+   "id": 6025511,
+   "shortcode": "6B1690698E",
+   "title": "Intern, Risk (Jan - Jun 2027)",
+   "remote": false,
+   "location": {
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "region": "Singapore"
+   },
+   "locations": [
+    {
+     "country": "Singapore",
+     "countryCode": "SG",
+     "city": "Singapore",
+     "region": "Singapore",
+     "hidden": false
+    }
+   ],
+   "state": "published",
+   "published": "2026-08-12T00:00:00.000Z",
+   "type": "temporary",
+   "department": [
+    "Market Risk"
+   ],
+   "workplace": "on_site"
+  },
+  {
+   "id": 6027986,
+   "shortcode": "982BD19023",
+   "title": "Intern, Sales (Jan - Jun 2027)",
+   "remote": false,
+   "location": {
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "region": "Singapore"
+   },
+   "locations": [],
+   "state": "published",
+   "published": "2026-08-13T00:00:00.000Z",
+   "type": "temporary",
+   "department": [
+    "Sales & Business Development"
+   ],
+   "workplace": "on_site"
+  },
+  {
+   "id": 6000000,
+   "shortcode": "AAAA000000",
+   "title": "Intern, Trading (Jan - Jun 2027)",
+   "remote": false,
+   "location": {
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong"
+   },
+   "locations": [],
+   "state": "published",
+   "published": "2026-08-13T00:00:00.000Z",
+   "department": [
+    "Trading"
+   ]
+  }
+ ],
+ "nextPage": null
+}

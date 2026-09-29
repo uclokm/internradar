@@ -1,0 +1,107 @@
+# InternRadar search profile: who the radar is looking for.
+# Edit this file to change availability, priorities or skills; no code changes needed.
+
+location: Singapore
+
+availability:
+  # Tier 1: fits the university break without taking leave.
+  tier1_start: 2026-11-30
+  tier1_end: 2027-02-19
+  tier1_preferred_weeks: [8, 12]
+  # Tier 2: a longer role that needs a leave of absence (LOA).
+  # The technical bounds are deliberately wide to avoid missing roles; 4–6 months is preferred.
+  tier2_earliest_start: 2026-11-30
+  tier2_latest_start: 2027-02-28
+  tier2_min_months: 3.5
+  tier2_max_months: 7.5
+  tier2_preferred_months: [4, 6]
+  # How many days either side of a window still count as a "stretch" fit.
+  grace_days: 14
+
+# A posting must match one of these (title) to count as an internship.
+intern_terms: [intern, internship, traineeship, industrial attachment, off-cycle, off cycle, year-end, winter]
+
+# Titles containing these are dropped. Broad finance words (analyst, operations, risk, data)
+# are never used to exclude a role.
+exclude_title_terms:
+  - software engineer
+  - software developer
+  - developer
+  - backend
+  - frontend
+  - full stack
+  - devops
+  - hardware
+  - mechanical
+  - electrical
+  - civil engineer
+  - chemical engineer
+  - process engineer
+  - robotics
+  - marketing
+  - social media
+  - content creator
+  - copywriter
+  - human resource
+  - hr intern
+  - talent acquisition
+  - recruit
+  - legal
+  - graphic design
+  - ux designer
+  - product designer
+  - retail sales
+  - phd
+  - mba
+  - summer
+
+# At least one of these must appear in the title or department for a role to be kept.
+target_terms: [invest, equity, equities, research, portfolio, asset management, wealth, private bank, private equity,
+               private credit, private market, credit, capital, fund, hedge, venture, banking, corporate finance, m&a,
+               deals, valuation, treasury, trading, trade support, markets, finance, financial, fp&a, strategy, strategic,
+               pricing, commercial, data, analytics, analyst, business intelligence, quant, risk, operations]
+
+# Personal priority groups used by the opportunity score (first match wins, top to bottom).
+role_priorities:
+  highest:
+    points: 15
+    terms: [private equity, asset management, investment analyst, portfolio, equity research, investment research,
+            private market, private credit, private debt, fund management, multi-asset, equities, investment]
+  strong:
+    points: 11
+    terms: [investment banking, corporate finance, m&a, mergers, deals, capital markets, leveraged, markets, trading,
+            treasury, wealth, private bank, risk, finance operations, trading operations, investment operations,
+            fund operations, product control, credit, valuation, research]
+  data:
+    points: 10
+    terms: [data analyst, data science, data analytics, business analytics, business analyst, business intelligence,
+            pricing, financial analytics, strategy analytics, analytics, insights, data]
+  acceptable:
+    points: 6
+    terms: [strategy, strategic, commercial, consulting, growth, business development, planning, finance, financial]
+
+# Signals of pure quant / software-heavy roles. They lower role alignment; they don't exclude.
+heavy_quant_terms: [c++, low latency, low-latency, kdb, rust, golang, java, systematic trading, stochastic calculus,
+                    phd, market making, hft, high-frequency, quantitative developer, quant developer]
+
+# Facts about you that decide eligibility (used by the score's eligibility check).
+eligibility:
+  singapore_citizen: true      # "Singaporeans / PR only" roles count as eligible
+  enrolled_undergraduate: true
+  expected_graduation: 2028
+
+# Skills you can evidence from your master CV. The score compares these with what a posting asks
+# for. Only list skills your CV actually shows (tests check this against the example CV).
+skills:
+  have: [python, sql, excel, power bi, tableau, r, powerpoint, financial analysis, equity research,
+         investment research, portfolio, risk, variance analysis, data analysis, dashboards, quantitative analysis,
+         financial markets, reporting, data cleaning, audit, compliance, stakeholder, research]
+  # Where a skill isn't written word-for-word on the CV, the phrase that evidences it.
+  evidence:
+    data analysis: analysed operational datasets
+    data cleaning: cleaned, and analysed
+    dashboards: dashboards
+    stakeholder: stakeholders
+  # Commonly requested skills not on the CV yet. Used to spot gaps; never added to a CV.
+  gaps: [financial modelling, valuation, dcf, bloomberg, capital iq, vba, accounting, cfa, machine learning,
+         pandas, statistics, c++, java, fixed income, derivatives, due diligence]

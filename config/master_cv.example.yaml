@@ -1,0 +1,122 @@
+# InternRadar master CV — PUBLIC EXAMPLE (fictional person).
+# Copy this to config/master_cv.yaml (git-ignored) and replace everything with your own details.
+# Every tailored CV is built ONLY from what is in this file: versions reorder and choose between
+# bullet wordings, they never invent content. On Streamlit Cloud, paste your real file into the
+# app's secrets as MASTER_CV instead of committing it.
+
+name: ALEX TAN
+contact: "Singapore | alex.tan@example.com | linkedin.com/in/example-profile"
+headline: "DATA SCIENCE UNDERGRAD | FINANCE, INVESTMENTS & STRATEGY"
+summary: >-
+  Second-year Bachelor of Science (Data Science) student with hands-on experience in financial analysis,
+  portfolio risk evaluation, and data-driven decision-making. Proficient in Excel, Power BI, SQL, Python, and R,
+  with applied experience in equity research, portfolio analytics, and quantitative risk assessment. Seeking
+  opportunities in finance and strategy where I can apply data analytics and financial analysis to support
+  investment and strategic decision-making.
+intro: "Second-year Bachelor of Science (Data Science) student"
+
+education:
+  - title: Bachelor of Science – Data Science Major
+    org: Example University
+    dates: Jul 2025 – Present
+    coursework: true
+  - title: International Baccalaureate Diploma
+    org: Example International School
+    dates: Jan 2019 – Dec 2022
+
+coursework:
+  fin: Principles of Finance
+  acc: Accounting Reports and Analysis
+  db: Database Systems
+  calc: Calculus 2
+  la: Linear Algebra
+  comp: Foundations of Computing
+
+experience:
+  - title: Operations Data Assistant
+    org: Example Logistics Co., Singapore
+    dates: Jun 2023 – Feb 2025
+    bullets:
+      dash: Built and maintained Power BI dashboards to monitor inventory conditions across 30+ warehouse sites, supporting risk management and regulatory compliance
+      dash_data: Built and maintained Power BI dashboards tracking inventory conditions across 30+ warehouse sites, turning operational data into clear reporting for risk management and regulatory compliance
+      clean: Collected, cleaned, and analysed operational datasets in Microsoft Excel, ensuring data integrity and accuracy for reporting to senior stakeholders
+      variance: Performed root-cause and variance analysis on inspection data to identify recurring issues and high-risk areas, producing data-driven reports that informed risk mitigation decisions
+      audit: Conducted stock-take audits and site inspections to identify asset discrepancies across operational sites
+      audit_ops: Conducted stock-take audits and site inspections, checking asset records against physical inventory to identify and resolve discrepancies
+      lead: Co-led stock-take operations, coordinating cross-functional planning and liaising with external auditors to ensure compliance
+
+projects:
+  - title: Portfolio Lens — Stock Analysis & Portfolio Analytics Tool
+    sub: Personal Project | Python, Financial Data Analysis
+    bullets:
+      build: Developed a financial analytics tool using real-world market data to support equity research, security comparison, and portfolio evaluation
+      build_data: Developed an end-to-end Python application that turns real-world market data into interactive analytics for stock comparison and portfolio evaluation
+      quant: Applied quantitative methods including returns, volatility, correlation, and diversification to evaluate stock performance and portfolio risk
+      quant_am: Evaluated portfolio risk and diversification using returns, volatility, and correlation analysis across securities
+      tools: Built interactive views for portfolio risk analysis and correlation analysis, translating market data into clear investment insights for investment research
+
+tech: [Python, SQL, R/RStudio, Power BI, Tableau, Microsoft Excel, Word, PowerPoint]
+analytical: [Financial Analysis, Equity Research, Portfolio Evaluation, Risk & Return Analysis, Variance Analysis, Investment Research, Financial Markets, Quantitative Analysis]
+
+certifications:
+  - Example Certificate in Investment Risk – Online course
+  - Example Data Science Job Simulation – Online course
+awards:
+  - Example Leadership Award — 2022
+
+# ---------------------------------------------------------------------------------------------
+# CV versions. InternRadar picks one per role family. A version may only REORDER and CHOOSE:
+# which bullet wording leads (ids from the sections above), the order of coursework and skills,
+# and which headline / focus / goal sentence to use. Every sentence below is yours to approve:
+# the app never writes new claims.
+versions:
+  INV:
+    label: Investment, research & IB
+    headline: DATA SCIENCE UNDERGRAD | INVESTMENT RESEARCH & FINANCIAL ANALYSIS
+    focus: with applied experience in equity research, portfolio risk evaluation, and quantitative analysis of real-world market data
+    goal: apply financial and data analysis to support investment research and decision-making
+    experience: [variance, clean, dash, lead, audit]
+    projects: [build, quant, tools]
+    coursework: [fin, acc, la, calc, db, comp]
+    tech: [Microsoft Excel, Python, SQL, PowerPoint, Power BI, Tableau, R/RStudio, Word]
+    analytical: [Equity Research, Investment Research, Financial Analysis, Risk & Return Analysis, Portfolio Evaluation, Financial Markets, Quantitative Analysis, Variance Analysis]
+  AM:
+    label: Asset & wealth management
+    headline: DATA SCIENCE UNDERGRAD | PORTFOLIO ANALYTICS & INVESTMENTS
+    focus: with hands-on experience in portfolio analytics, risk and return analysis, and investment research using real-world market data
+    goal: support portfolio monitoring, performance analysis, and investment decisions
+    experience: [clean, dash, variance, lead, audit]
+    projects: [build, quant_am, tools]
+    coursework: [fin, acc, la, db, calc, comp]
+    tech: [Microsoft Excel, Python, Power BI, SQL, Tableau, PowerPoint, R/RStudio, Word]
+    analytical: [Portfolio Evaluation, Risk & Return Analysis, Investment Research, Equity Research, Financial Markets, Financial Analysis, Quantitative Analysis, Variance Analysis]
+  DATA:
+    label: Data & business analytics
+    headline: DATA SCIENCE UNDERGRAD | DATA ANALYTICS & BUSINESS INSIGHTS
+    focus: with hands-on experience building Power BI dashboards, cleaning and analysing operational datasets, and deploying a Python analytics application
+    goal: turn data into clear insights that support business and financial decisions
+    experience: [dash_data, clean, variance, lead, audit]
+    projects: [build_data, tools, quant]
+    coursework: [db, comp, la, calc, fin, acc]
+    tech: [Python, SQL, Power BI, Tableau, R/RStudio, Microsoft Excel, PowerPoint, Word]
+    analytical: [Quantitative Analysis, Variance Analysis, Financial Analysis, Risk & Return Analysis, Portfolio Evaluation, Financial Markets, Equity Research, Investment Research]
+  OPS:
+    label: Finance ops, treasury & risk
+    headline: DATA SCIENCE UNDERGRAD | FINANCE OPERATIONS, TREASURY & CONTROLS
+    focus: with hands-on experience in data integrity, stock-take audits, variance analysis, and compliance reporting
+    goal: support accurate, well-controlled finance, treasury, and investment operations
+    experience: [audit_ops, clean, variance, lead, dash]
+    projects: [build, quant, tools]
+    coursework: [acc, fin, db, la, calc, comp]
+    tech: [Microsoft Excel, SQL, Power BI, Python, Tableau, PowerPoint, R/RStudio, Word]
+    analytical: [Variance Analysis, Financial Analysis, Risk & Return Analysis, Financial Markets, Quantitative Analysis, Portfolio Evaluation, Investment Research, Equity Research]
+  STRAT:
+    label: Strategy & commercial
+    headline: DATA SCIENCE UNDERGRAD | STRATEGY & COMMERCIAL ANALYTICS
+    focus: with hands-on experience in data-driven analysis, root-cause investigation, and reporting to senior stakeholders
+    goal: apply data analytics and financial analysis to strategic and commercial decisions
+    experience: [variance, dash_data, lead, clean, audit]
+    projects: [build_data, quant, tools]
+    coursework: [fin, acc, db, la, calc, comp]
+    tech: [Microsoft Excel, PowerPoint, Python, SQL, Power BI, Tableau, R/RStudio, Word]
+    analytical: [Financial Analysis, Quantitative Analysis, Variance Analysis, Financial Markets, Investment Research, Risk & Return Analysis, Portfolio Evaluation, Equity Research]

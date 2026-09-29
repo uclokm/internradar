@@ -1,0 +1,190 @@
+{
+ "banyan capital|credit private": {
+  "applied_on": "2026-09-14",
+  "history": [
+   [
+    "2026-09-14",
+    "Applied"
+   ],
+   [
+    "2026-09-19",
+    "Interview"
+   ],
+   [
+    "2026-09-23",
+    "Offer"
+   ]
+  ],
+  "job": {
+   "company": "Banyan Private Capital",
+   "dates": "Dec 2026 \u2013 Mar 2027",
+   "family": "INV",
+   "score": 89,
+   "source": "internsg",
+   "tier": "T2",
+   "title": "Private Credit Intern",
+   "url": "https://example.com/internsg"
+  },
+  "status": "Offer",
+  "updated_on": "2026-09-23"
+ },
+ "harbourline capital|equity private": {
+  "history": [
+   [
+    "2026-09-29",
+    "Shortlisted"
+   ]
+  ],
+  "job": {
+   "company": "Harbourline Capital",
+   "dates": "Dec 2026 \u2013 12 Feb 2027",
+   "family": "INV",
+   "score": 98,
+   "source": "greenhouse",
+   "tier": "T1",
+   "title": "Private Equity Intern",
+   "url": "https://example.com/harbourline"
+  },
+  "status": "Shortlisted",
+  "updated_on": "2026-09-29"
+ },
+ "ledgerleaf|analyst data finance": {
+  "applied_on": "2026-09-26",
+  "history": [
+   [
+    "2026-09-26",
+    "Applied"
+   ],
+   [
+    "2026-09-28",
+    "Interview"
+   ]
+  ],
+  "interview_on": "2026-10-02",
+  "job": {
+   "company": "LedgerLeaf",
+   "dates": "Jan 2027 \u2013 May 2027",
+   "family": "DATA",
+   "score": 89,
+   "source": "workable",
+   "tier": "T2",
+   "title": "Data Analyst Intern (Finance)",
+   "url": "https://example.com/ledgerleaf"
+  },
+  "status": "Interview",
+  "updated_on": "2026-09-28"
+ },
+ "lumen consulting|analytics commercial strategy": {
+  "applied_on": "2026-09-17",
+  "history": [
+   [
+    "2026-09-17",
+    "Applied"
+   ],
+   [
+    "2026-09-22",
+    "Withdrawn"
+   ]
+  ],
+  "job": {
+   "company": "Lumen Consulting",
+   "dates": "Flexible start, flexible duration",
+   "family": "STRAT",
+   "score": 83,
+   "source": "internsg",
+   "tier": "T1",
+   "title": "Strategy & Commercial Analytics Intern",
+   "url": "https://example.com/internsg"
+  },
+  "status": "Withdrawn",
+  "updated_on": "2026-09-22"
+ },
+ "merlion asset management|asian equities": {
+  "history": [
+   [
+    "2026-09-28",
+    "Applying"
+   ]
+  ],
+  "job": {
+   "company": "Merlion Asset Management",
+   "dates": "Dec 2026 \u2013 May 2027",
+   "family": "AM",
+   "score": 88,
+   "source": "workday",
+   "tier": "T2",
+   "title": "Intern, Asian Equities",
+   "url": "https://example.com/merlion"
+  },
+  "notes": "Tailor CV with the AM version",
+  "status": "Applying",
+  "updated_on": "2026-09-28"
+ },
+ "straits wealth partners|management wealth": {
+  "applied_on": "2026-09-21",
+  "history": [
+   [
+    "2026-09-21",
+    "Applied"
+   ],
+   [
+    "2026-09-25",
+    "Rejected"
+   ]
+  ],
+  "job": {
+   "company": "Straits Wealth Partners",
+   "dates": "Dec 2026 \u2013 Apr 2027",
+   "family": "AM",
+   "score": 90,
+   "source": "internsg",
+   "tier": "T2",
+   "title": "Wealth Management Intern",
+   "url": "https://example.com/internsg"
+  },
+  "status": "Rejected",
+  "updated_on": "2026-09-25"
+ },
+ "tidewater trading|operations trading": {
+  "applied_on": "2026-09-24",
+  "follow_up_on": "2026-09-28",
+  "history": [
+   [
+    "2026-09-24",
+    "Applied"
+   ]
+  ],
+  "job": {
+   "company": "Tidewater Trading",
+   "dates": "Dec 2026 \u2013 Feb 2027",
+   "family": "OPS",
+   "score": 93,
+   "source": "greenhouse",
+   "tier": "T1",
+   "title": "Trading Operations Intern (Dec 2026 - Feb 2027)",
+   "url": "https://example.com/tidewater"
+  },
+  "status": "Applied",
+  "updated_on": "2026-09-24"
+ },
+ "vector quant partners|quantitative research": {
+  "history": [
+   [
+    "2026-09-25",
+    "Not for me"
+   ]
+  ],
+  "job": {
+   "company": "Vector Quant Partners",
+   "dates": "Jan 2027 \u2013 Jun 2027",
+   "family": "INV",
+   "score": 73,
+   "source": "greenhouse",
+   "tier": "T2",
+   "title": "Quantitative Research Intern (Jan - Jun 2027)",
+   "url": "https://example.com/vector"
+  },
+  "status": "Not for me",
+  "updated_on": "2026-09-25"
+ }
+}

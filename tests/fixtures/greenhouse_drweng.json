@@ -1,0 +1,75 @@
+{
+ "jobs": [
+  {
+   "id": 8173677,
+   "title": "IT Intern",
+   "absolute_url": "https://job-boards.greenhouse.io/drweng/jobs/8173677",
+   "location": {
+    "name": "Singapore"
+   },
+   "updated_at": "2026-09-28T00:34:07-04:00",
+   "first_published": "2026-09-02T10:45:57-04:00",
+   "content": "&lt;p&gt;&lt;strong&gt;DRW&lt;/strong&gt; is a technology-driven, diversified principal trading firm.&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Technology"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Singapore"
+    }
+   ]
+  },
+  {
+   "id": 9000001,
+   "title": "Trading Operations Intern (Dec 2026 - Feb 2027)",
+   "absolute_url": "https://job-boards.greenhouse.io/drweng/jobs/9000001",
+   "location": {
+    "name": "Singapore"
+   },
+   "updated_at": "2026-09-20T00:00:00-04:00",
+   "first_published": "2026-09-20T00:00:00-04:00",
+   "content": "&lt;p&gt;Support the trading desk with P&amp;amp;L reporting.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Excel and Python&lt;/li&gt;&lt;/ul&gt;",
+   "departments": [
+    {
+     "name": "Trading"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Singapore"
+    }
+   ]
+  },
+  {
+   "id": 5894916,
+   "title": "ECM Portfolio Manager",
+   "absolute_url": "https://job-boards.greenhouse.io/drweng/jobs/5894916",
+   "location": {
+    "name": "Singapore"
+   },
+   "updated_at": "2026-08-19T17:04:51-04:00",
+   "first_published": "2026-04-10T03:45:21-04:00",
+   "content": "&lt;p&gt;Full-time role.&lt;/p&gt;",
+   "departments": [],
+   "offices": []
+  },
+  {
+   "id": 7000002,
+   "title": "Research Intern",
+   "absolute_url": "https://job-boards.greenhouse.io/drweng/jobs/7000002",
+   "location": {
+    "name": "Chicago"
+   },
+   "updated_at": "2026-09-20T00:00:00-04:00",
+   "first_published": "2026-09-20T00:00:00-04:00",
+   "content": "",
+   "departments": [],
+   "offices": []
+  }
+ ],
+ "meta": {
+  "total": 4
+ }
+}
