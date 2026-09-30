@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-29",
-  "run_at": "2026-09-29T10:13:41+00:00",
-  "new_relevant": 140,
-  "new_tier1": 34,
-  "new_tier2": 106,
-  "new_unclear": 28,
-  "closed": 0,
-  "open": 168,
+  "date": "2026-09-30",
+  "run_at": "2026-09-30T00:48:04+00:00",
+  "new_relevant": 0,
+  "new_tier1": 0,
+  "new_tier2": 0,
+  "new_unclear": 0,
+  "closed": 3,
+  "open": 165,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -98,14 +98,14 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 55,
+      "fetched": 56,
       "kept": 3,
       "error": ""
     },
     {
       "board": "greenhouse:xendit",
       "ok": true,
-      "fetched": 11,
+      "fetched": 10,
       "kept": 0,
       "error": ""
     },
@@ -140,8 +140,8 @@
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 21,
-      "kept": 21,
+      "fetched": 18,
+      "kept": 18,
       "error": ""
     },
     {
@@ -154,7 +154,7 @@
     {
       "board": "workday:capitaland",
       "ok": true,
-      "fetched": 22,
+      "fetched": 21,
       "kept": 9,
       "error": ""
     },
@@ -203,7 +203,7 @@
     {
       "board": "workday:hlb",
       "ok": true,
-      "fetched": 4,
+      "fetched": 3,
       "kept": 3,
       "error": ""
     },
