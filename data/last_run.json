@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-30",
-  "run_at": "2026-09-30T00:48:04+00:00",
-  "new_relevant": 0,
-  "new_tier1": 0,
-  "new_tier2": 0,
+  "date": "2026-10-01",
+  "run_at": "2026-10-01T00:52:13+00:00",
+  "new_relevant": 4,
+  "new_tier1": 1,
+  "new_tier2": 3,
   "new_unclear": 0,
-  "closed": 3,
-  "open": 165,
+  "closed": 7,
+  "open": 162,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -14,7 +14,7 @@
     {
       "board": "greenhouse:drweng",
       "ok": true,
-      "fetched": 23,
+      "fetched": 24,
       "kept": 1,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 56,
+      "fetched": 54,
       "kept": 3,
       "error": ""
     },
@@ -133,15 +133,15 @@
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 186,
+      "fetched": 182,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 18,
-      "kept": 18,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
@@ -154,8 +154,8 @@
     {
       "board": "workday:capitaland",
       "ok": true,
-      "fetched": 21,
-      "kept": 9,
+      "fetched": 22,
+      "kept": 10,
       "error": ""
     },
     {
@@ -210,7 +210,7 @@
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 12,
+      "fetched": 13,
       "kept": 6,
       "error": ""
     },
@@ -245,8 +245,8 @@
     {
       "board": "workable:moomoo",
       "ok": true,
-      "fetched": 3,
-      "kept": 1,
+      "fetched": 2,
+      "kept": 0,
       "error": ""
     },
     {
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 85,
-      "kept": 74,
+      "fetched": 90,
+      "kept": 79,
       "error": ""
     }
   ]
