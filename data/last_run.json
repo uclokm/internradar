@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-02",
-  "run_at": "2026-10-02T01:07:06+00:00",
-  "new_relevant": 0,
+  "date": "2026-10-03",
+  "run_at": "2026-10-03T00:46:25+00:00",
+  "new_relevant": 4,
   "new_tier1": 0,
-  "new_tier2": 0,
+  "new_tier2": 4,
   "new_unclear": 1,
-  "closed": 8,
-  "open": 155,
+  "closed": 11,
+  "open": 149,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -21,7 +21,7 @@
     {
       "board": "greenhouse:quberesearchandtechnologies",
       "ok": true,
-      "fetched": 11,
+      "fetched": 12,
       "kept": 2,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 54,
+      "fetched": 53,
       "kept": 3,
       "error": ""
     },
@@ -126,29 +126,29 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 10,
-      "kept": 1,
+      "fetched": 0,
+      "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 185,
+      "fetched": 186,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 7,
-      "kept": 7,
+      "fetched": 6,
+      "kept": 6,
       "error": ""
     },
     {
       "board": "workday:keppel",
       "ok": true,
-      "fetched": 6,
-      "kept": 1,
+      "fetched": 7,
+      "kept": 2,
       "error": ""
     },
     {
@@ -189,7 +189,7 @@
     {
       "board": "workday:tencent",
       "ok": true,
-      "fetched": 8,
+      "fetched": 7,
       "kept": 3,
       "error": ""
     },
@@ -203,7 +203,7 @@
     {
       "board": "workday:hlb",
       "ok": true,
-      "fetched": 2,
+      "fetched": 3,
       "kept": 2,
       "error": ""
     },
@@ -238,8 +238,8 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 7,
-      "kept": 2,
+      "fetched": 8,
+      "kept": 3,
       "error": ""
     },
     {
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 90,
-      "kept": 79,
+      "fetched": 82,
+      "kept": 71,
       "error": ""
     }
   ]
