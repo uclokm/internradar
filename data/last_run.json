@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-06",
-  "run_at": "2026-10-06T01:57:16+00:00",
-  "new_relevant": 3,
-  "new_tier1": 1,
-  "new_tier2": 2,
-  "new_unclear": 1,
-  "closed": 7,
-  "open": 146,
+  "date": "2026-10-07",
+  "run_at": "2026-10-07T01:03:10+00:00",
+  "new_relevant": 1,
+  "new_tier1": 0,
+  "new_tier2": 1,
+  "new_unclear": 0,
+  "closed": 0,
+  "open": 147,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -28,7 +28,7 @@
     {
       "board": "greenhouse:squarepointcapital",
       "ok": true,
-      "fetched": 54,
+      "fetched": 55,
       "kept": 1,
       "error": ""
     },
@@ -63,7 +63,7 @@
     {
       "board": "greenhouse:point72",
       "ok": true,
-      "fetched": 11,
+      "fetched": 12,
       "kept": 1,
       "error": ""
     },
@@ -77,7 +77,7 @@
     {
       "board": "greenhouse:towerresearchcapital",
       "ok": true,
-      "fetched": 23,
+      "fetched": 24,
       "kept": 2,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 53,
+      "fetched": 54,
       "kept": 3,
       "error": ""
     },
@@ -133,29 +133,29 @@
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 188,
+      "fetched": 191,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 3,
+      "fetched": 4,
       "kept": 3,
       "error": ""
     },
     {
       "board": "workday:keppel",
       "ok": true,
-      "fetched": 6,
+      "fetched": 5,
       "kept": 1,
       "error": ""
     },
     {
       "board": "workday:capitaland",
       "ok": true,
-      "fetched": 22,
-      "kept": 11,
+      "fetched": 23,
+      "kept": 12,
       "error": ""
     },
     {
@@ -182,7 +182,7 @@
     {
       "board": "workday:pwc",
       "ok": true,
-      "fetched": 26,
+      "fetched": 25,
       "kept": 12,
       "error": ""
     },
@@ -203,14 +203,14 @@
     {
       "board": "workday:hlb",
       "ok": true,
-      "fetched": 3,
+      "fetched": 2,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 15,
+      "fetched": 16,
       "kept": 6,
       "error": ""
     },
@@ -238,7 +238,7 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 8,
+      "fetched": 7,
       "kept": 3,
       "error": ""
     },
