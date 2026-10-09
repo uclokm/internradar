@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-08",
-  "run_at": "2026-10-08T01:22:08+00:00",
-  "new_relevant": 6,
-  "new_tier1": 1,
-  "new_tier2": 5,
-  "new_unclear": 4,
-  "closed": 9,
-  "open": 148,
+  "date": "2026-10-09",
+  "run_at": "2026-10-09T01:30:43+00:00",
+  "new_relevant": 8,
+  "new_tier1": 2,
+  "new_tier2": 6,
+  "new_unclear": 1,
+  "closed": 2,
+  "open": 155,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -14,14 +14,14 @@
     {
       "board": "greenhouse:drweng",
       "ok": true,
-      "fetched": 25,
+      "fetched": 24,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:quberesearchandtechnologies",
       "ok": true,
-      "fetched": 10,
+      "fetched": 11,
       "kept": 2,
       "error": ""
     },
@@ -42,7 +42,7 @@
     {
       "board": "greenhouse:jumptrading",
       "ok": true,
-      "fetched": 22,
+      "fetched": 21,
       "kept": 3,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 56,
+      "fetched": 57,
       "kept": 3,
       "error": ""
     },
@@ -112,7 +112,7 @@
     {
       "board": "greenhouse:thunes",
       "ok": true,
-      "fetched": 7,
+      "fetched": 8,
       "kept": 0,
       "error": ""
     },
@@ -133,15 +133,15 @@
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 197,
+      "fetched": 198,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 5,
-      "kept": 3,
+      "fetched": 12,
+      "kept": 9,
       "error": ""
     },
     {
@@ -161,7 +161,7 @@
     {
       "board": "workday:mufgub",
       "ok": true,
-      "fetched": 32,
+      "fetched": 33,
       "kept": 18,
       "error": ""
     },
@@ -182,8 +182,8 @@
     {
       "board": "workday:pwc",
       "ok": true,
-      "fetched": 25,
-      "kept": 11,
+      "fetched": 26,
+      "kept": 10,
       "error": ""
     },
     {
@@ -210,7 +210,7 @@
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 16,
+      "fetched": 17,
       "kept": 6,
       "error": ""
     },
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 79,
-      "kept": 70,
+      "fetched": 81,
+      "kept": 72,
       "error": ""
     }
   ]
