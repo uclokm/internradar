@@ -1,27 +1,27 @@
 {
-  "date": "2026-10-09",
-  "run_at": "2026-10-09T01:30:43+00:00",
-  "new_relevant": 8,
-  "new_tier1": 2,
+  "date": "2026-10-10",
+  "run_at": "2026-10-10T01:19:43+00:00",
+  "new_relevant": 6,
+  "new_tier1": 0,
   "new_tier2": 6,
-  "new_unclear": 1,
+  "new_unclear": 0,
   "closed": 2,
-  "open": 155,
+  "open": 159,
   "boards_configured": 36,
-  "boards_checked": 36,
-  "boards_failed": 0,
+  "boards_checked": 35,
+  "boards_failed": 1,
   "boards": [
     {
       "board": "greenhouse:drweng",
       "ok": true,
-      "fetched": 24,
+      "fetched": 23,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:quberesearchandtechnologies",
       "ok": true,
-      "fetched": 11,
+      "fetched": 12,
       "kept": 2,
       "error": ""
     },
@@ -42,7 +42,7 @@
     {
       "board": "greenhouse:jumptrading",
       "ok": true,
-      "fetched": 21,
+      "fetched": 20,
       "kept": 3,
       "error": ""
     },
@@ -98,21 +98,21 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 57,
+      "fetched": 55,
       "kept": 3,
       "error": ""
     },
     {
       "board": "greenhouse:xendit",
       "ok": true,
-      "fetched": 10,
+      "fetched": 9,
       "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:thunes",
       "ok": true,
-      "fetched": 8,
+      "fetched": 9,
       "kept": 0,
       "error": ""
     },
@@ -125,23 +125,23 @@
     },
     {
       "board": "greenhouse:binance",
-      "ok": true,
+      "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/binance/jobs?content=true"
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 198,
+      "fetched": 200,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 12,
-      "kept": 9,
+      "fetched": 15,
+      "kept": 12,
       "error": ""
     },
     {
@@ -154,15 +154,15 @@
     {
       "board": "workday:capitaland",
       "ok": true,
-      "fetched": 28,
+      "fetched": 27,
       "kept": 14,
       "error": ""
     },
     {
       "board": "workday:mufgub",
       "ok": true,
-      "fetched": 33,
-      "kept": 18,
+      "fetched": 34,
+      "kept": 19,
       "error": ""
     },
     {
@@ -210,8 +210,8 @@
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 17,
-      "kept": 6,
+      "fetched": 19,
+      "kept": 7,
       "error": ""
     },
     {
@@ -238,7 +238,7 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 7,
+      "fetched": 8,
       "kept": 3,
       "error": ""
     },
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 81,
-      "kept": 72,
+      "fetched": 82,
+      "kept": 73,
       "error": ""
     }
   ]
