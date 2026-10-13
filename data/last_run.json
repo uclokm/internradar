@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-12",
-  "run_at": "2026-10-12T00:46:21+00:00",
+  "date": "2026-10-13",
+  "run_at": "2026-10-13T02:44:48+00:00",
   "new_relevant": 1,
-  "new_tier1": 1,
-  "new_tier2": 0,
-  "new_unclear": 0,
-  "closed": 0,
-  "open": 160,
+  "new_tier1": 0,
+  "new_tier2": 1,
+  "new_unclear": 2,
+  "closed": 1,
+  "open": 162,
   "boards_configured": 36,
-  "boards_checked": 35,
-  "boards_failed": 1,
+  "boards_checked": 36,
+  "boards_failed": 0,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -28,7 +28,7 @@
     {
       "board": "greenhouse:squarepointcapital",
       "ok": true,
-      "fetched": 55,
+      "fetched": 56,
       "kept": 1,
       "error": ""
     },
@@ -70,7 +70,7 @@
     {
       "board": "greenhouse:akunacapital",
       "ok": true,
-      "fetched": 3,
+      "fetched": 2,
       "kept": 0,
       "error": ""
     },
@@ -98,14 +98,14 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 54,
+      "fetched": 50,
       "kept": 3,
       "error": ""
     },
     {
       "board": "greenhouse:xendit",
       "ok": true,
-      "fetched": 9,
+      "fetched": 10,
       "kept": 0,
       "error": ""
     },
@@ -125,15 +125,15 @@
     },
     {
       "board": "greenhouse:binance",
-      "ok": false,
+      "ok": true,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/binance/jobs?content=true"
+      "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 200,
+      "fetched": 203,
       "kept": 2,
       "error": ""
     },
@@ -141,7 +141,7 @@
       "board": "workday:ocbc",
       "ok": true,
       "fetched": 15,
-      "kept": 12,
+      "kept": 14,
       "error": ""
     },
     {
@@ -203,8 +203,8 @@
     {
       "board": "workday:hlb",
       "ok": true,
-      "fetched": 4,
-      "kept": 4,
+      "fetched": 5,
+      "kept": 5,
       "error": ""
     },
     {
@@ -238,7 +238,7 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 9,
+      "fetched": 8,
       "kept": 3,
       "error": ""
     },
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 82,
-      "kept": 73,
+      "fetched": 81,
+      "kept": 72,
       "error": ""
     }
   ]
