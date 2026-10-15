@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-14",
-  "run_at": "2026-10-14T00:40:02+00:00",
-  "new_relevant": 14,
-  "new_tier1": 1,
-  "new_tier2": 13,
+  "date": "2026-10-15",
+  "run_at": "2026-10-15T00:09:29+00:00",
+  "new_relevant": 4,
+  "new_tier1": 2,
+  "new_tier2": 2,
   "new_unclear": 1,
-  "closed": 9,
-  "open": 168,
+  "closed": 14,
+  "open": 161,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -21,7 +21,7 @@
     {
       "board": "greenhouse:quberesearchandtechnologies",
       "ok": true,
-      "fetched": 12,
+      "fetched": 13,
       "kept": 2,
       "error": ""
     },
@@ -42,7 +42,7 @@
     {
       "board": "greenhouse:jumptrading",
       "ok": true,
-      "fetched": 20,
+      "fetched": 19,
       "kept": 3,
       "error": ""
     },
@@ -126,22 +126,22 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 14,
-      "kept": 0,
+      "fetched": 97,
+      "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 203,
+      "fetched": 206,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 16,
-      "kept": 13,
+      "fetched": 8,
+      "kept": 7,
       "error": ""
     },
     {
@@ -203,15 +203,15 @@
     {
       "board": "workday:hlb",
       "ok": true,
-      "fetched": 5,
-      "kept": 5,
+      "fetched": 7,
+      "kept": 4,
       "error": ""
     },
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 19,
-      "kept": 7,
+      "fetched": 20,
+      "kept": 8,
       "error": ""
     },
     {
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 82,
-      "kept": 73,
+      "fetched": 80,
+      "kept": 72,
       "error": ""
     }
   ]
