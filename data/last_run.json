@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-15",
-  "run_at": "2026-10-15T00:09:29+00:00",
-  "new_relevant": 4,
-  "new_tier1": 2,
+  "date": "2026-10-16",
+  "run_at": "2026-10-15T23:56:36+00:00",
+  "new_relevant": 3,
+  "new_tier1": 1,
   "new_tier2": 2,
   "new_unclear": 1,
-  "closed": 14,
-  "open": 161,
+  "closed": 29,
+  "open": 136,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -84,8 +84,8 @@
     {
       "board": "greenhouse:stepstone",
       "ok": true,
-      "fetched": 2,
-      "kept": 1,
+      "fetched": 1,
+      "kept": 0,
       "error": ""
     },
     {
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 49,
+      "fetched": 50,
       "kept": 3,
       "error": ""
     },
@@ -126,28 +126,28 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 97,
+      "fetched": 117,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 206,
+      "fetched": 207,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 8,
-      "kept": 7,
+      "fetched": 4,
+      "kept": 4,
       "error": ""
     },
     {
       "board": "workday:keppel",
       "ok": true,
-      "fetched": 4,
+      "fetched": 3,
       "kept": 1,
       "error": ""
     },
@@ -161,8 +161,8 @@
     {
       "board": "workday:mufgub",
       "ok": true,
-      "fetched": 40,
-      "kept": 24,
+      "fetched": 2,
+      "kept": 1,
       "error": ""
     },
     {
@@ -210,8 +210,8 @@
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 20,
-      "kept": 8,
+      "fetched": 23,
+      "kept": 9,
       "error": ""
     },
     {
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 80,
-      "kept": 72,
+      "fetched": 81,
+      "kept": 73,
       "error": ""
     }
   ]
