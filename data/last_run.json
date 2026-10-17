@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-17",
-  "run_at": "2026-10-16T23:59:05+00:00",
-  "new_relevant": 4,
+  "date": "2026-10-18",
+  "run_at": "2026-10-17T23:31:36+00:00",
+  "new_relevant": 0,
   "new_tier1": 0,
-  "new_tier2": 4,
-  "new_unclear": 4,
-  "closed": 4,
+  "new_tier2": 0,
+  "new_unclear": 0,
+  "closed": 0,
   "open": 141,
   "boards_configured": 36,
-  "boards_checked": 35,
-  "boards_failed": 1,
+  "boards_checked": 36,
+  "boards_failed": 0,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -216,10 +216,10 @@
     },
     {
       "board": "workday:ardian",
-      "ok": false,
-      "fetched": 0,
+      "ok": true,
+      "fetched": 2,
       "kept": 0,
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+      "error": ""
     },
     {
       "board": "workday:rhb",
