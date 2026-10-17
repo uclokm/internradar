@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-16",
-  "run_at": "2026-10-15T23:56:36+00:00",
-  "new_relevant": 3,
-  "new_tier1": 1,
-  "new_tier2": 2,
-  "new_unclear": 1,
-  "closed": 29,
-  "open": 136,
+  "date": "2026-10-17",
+  "run_at": "2026-10-16T23:59:05+00:00",
+  "new_relevant": 4,
+  "new_tier1": 0,
+  "new_tier2": 4,
+  "new_unclear": 4,
+  "closed": 4,
+  "open": 141,
   "boards_configured": 36,
-  "boards_checked": 36,
-  "boards_failed": 0,
+  "boards_checked": 35,
+  "boards_failed": 1,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -63,7 +63,7 @@
     {
       "board": "greenhouse:point72",
       "ok": true,
-      "fetched": 10,
+      "fetched": 9,
       "kept": 0,
       "error": ""
     },
@@ -119,29 +119,29 @@
     {
       "board": "greenhouse:coinbase",
       "ok": true,
-      "fetched": 7,
+      "fetched": 6,
       "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 117,
+      "fetched": 116,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 207,
+      "fetched": 208,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 4,
-      "kept": 4,
+      "fetched": 2,
+      "kept": 2,
       "error": ""
     },
     {
@@ -155,14 +155,14 @@
       "board": "workday:capitaland",
       "ok": true,
       "fetched": 25,
-      "kept": 14,
+      "kept": 13,
       "error": ""
     },
     {
       "board": "workday:mufgub",
       "ok": true,
-      "fetched": 2,
-      "kept": 1,
+      "fetched": 12,
+      "kept": 6,
       "error": ""
     },
     {
@@ -182,8 +182,8 @@
     {
       "board": "workday:pwc",
       "ok": true,
-      "fetched": 26,
-      "kept": 10,
+      "fetched": 25,
+      "kept": 9,
       "error": ""
     },
     {
@@ -210,16 +210,16 @@
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 23,
-      "kept": 9,
+      "fetched": 25,
+      "kept": 11,
       "error": ""
     },
     {
       "board": "workday:ardian",
-      "ok": true,
-      "fetched": 2,
+      "ok": false,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     },
     {
       "board": "workday:rhb",
@@ -238,7 +238,7 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 8,
+      "fetched": 7,
       "kept": 3,
       "error": ""
     },
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 81,
-      "kept": 73,
+      "fetched": 84,
+      "kept": 76,
       "error": ""
     }
   ]

@@ -1,42 +1,25 @@
-# InternRadar — Fri 16 Oct 2026
+# InternRadar — Sat 17 Oct 2026
 
-3 new relevant role(s) · 29 closed · 136 open · checked 36 of 36 configured boards
+4 new relevant role(s) · 4 closed · 141 open · checked 35 of 36 configured boards · **1 failed**
 
 ## New roles (highest score first)
-- **77** · **Changi Airport Group** — [Growth & Strategy Intern](https://www.internsg.com/job/changi-airport-group-growth-strategy-intern/) · Dec 2026 – May 2027 · Tier 2 (strong)
-- **72** · **OCBC** — [Internship: Global Corporate Banking, GWB Sustainability [Jan to Jun 2027]](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Global-Corporate-Banking--GWB-Sustainability--Jan-to-May-2027-_JR00010995) · Jan 2027 – Jun 2027 · Tier 2 (strong)
-- **68** · **Ascendance Wealth Management** — [Wealth Management Intern](https://www.internsg.com/job/ascendance-wealth-management-wealth-management-intern/) · 7 Dec 2026 – 19 Dec 2026 · Tier 1 (weak)
+- **92** · **MUFG** — [Enterprise Risk Management Intern](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/Enterprise-Risk-Management-Intern_10079780-WD) · 11 Jan 2027 – Jun 2027 · Tier 2 (strong)
+- **86** · **One KM Private Ltd** — [Corporate Development and Investments Semester Analyst (6M Internship)](https://www.internsg.com/job/one-km-private-ltd-corporate-development-and-investments-semester-analyst-6m-internship/) · 4 Jan 2027 – Jun 2027 · Tier 2 (strong)
+- **75** · **MUFG** — [Transaction Banking Product (Documentary Trade and ESG) Intern](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/Transaction-Banking-Product--Documentary-Trade-and-ESG--Intern_10079099-WD) · 11 Jan 2027 – Jun 2027 · Tier 2 (strong)
+- **71** · **Innowave Tech Pte. Ltd** — [Finance Intern](https://www.internsg.com/job/innowave-tech-pte-ltd-finance-intern-3/) · Flexible start, min 6 months · Tier 2 (stretch)
 
 ## New, dates unclear (worth a manual look)
-- ING — [Intern, Global Research](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Singapore/Intern--Global-Research_REQ-10123253)
+- MUFG — [Financial Planning (Expense Management) Intern](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/Financial-Planning--Expense-Management--Intern_10078788-WD)
+- MUFG — [Financial Planning (Balance Sheet Management) Intern](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/Financial-Planning--Balance-Sheet-Management--Intern_10079141-WD)
+- ING — [Intern, HR Operations](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Singapore/Intern--HR-Operations_REQ-10123430)
+- ING — [Intern, Portfolio Management](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Singapore/Intern--Portfolio-Management_REQ-10123353)
 
 ## Closed since the last run
-- StepStone Group — 1H 2027 Private Equity Intern
-- OCBC — International Wealth Premier Business Services Management - VP
-- OCBC — Internship: Global Consumer Financial Services, Marketing, Digital Marketing & Martech [Jan to Jun 2027]
-- OCBC — Internship: Global Consumer Financial Services, Personal & Premier Banking Onshore, Business Management Office [Dec 2026 to Jun 2027]
-- OCBC — Internship: Global Consumer Financial Services, Risk & Prevention, Financial Crime & Digital Business Risk Advisory [Jan to May 2027]
-- MUFG — Treasury Intern
-- MUFG — Project Finance Intern
-- MUFG — Capital Markets Intern
-- MUFG — Financial Institutions Intern
-- MUFG — IT Finance Intern
-- MUFG — Portfolio Management Intern
-- MUFG — Sustainable Finance Intern
-- MUFG — Transaction Banking Product Intern
-- MUFG — APAC Fund Finance Intern
-- MUFG — Credit Portfolio Management Intern
-- MUFG — Commodity Structured Finance Intern
-- MUFG — Credit Risk Advisory Intern
-- MUFG — Commodity Trade Finance Intern
-- MUFG — Financial Institutions Risk Intern
-- MUFG — Global Markets Research Intern
-- MUFG — Enterprise Risk Management Intern
-- MUFG — Leveraged and Acquisition Finance Intern
-- MUFG — Financial Planning (Expense Management) Intern
-- MUFG — Trade Finance for Financial Institutions Intern
-- MUFG — Operations Project and Data Analytics Intern
-- MUFG — Financial Crimes Compliance – Complex Investigations Intern
-- MUFG — Strategic Planning and Business Execution Intern
-- MUFG — Financial Crimes Compliance - Data Governance Intern
-- FOMO Pay Pte Ltd — Accounting Intern
+- OCBC — Internship: Global Consumer Financial Services, CFS Finance, Business Performance and Analysis [Jan to May 2027]
+- OCBC — Internship: Global Consumer Financial Services, Risk & Prevention, Regional Risk & Prevention [Jan to Jun 2027]
+- CapitaLand — Manager, Investment & Portfolio Management (International)
+- PwC — Strategy& Deals Year-End Internship (Dec 26 - Feb 27)
+
+## Boards that could not be checked
+Their postings were left open (not marked closed).
+- `workday:ardian` — JSONDecodeError: Expecting value: line 1 column 1 (char 0)
