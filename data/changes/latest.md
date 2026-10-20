@@ -1,16 +1,13 @@
-# InternRadar — Mon 19 Oct 2026
+# InternRadar — Tue 20 Oct 2026
 
-4 new relevant role(s) · 2 closed · 144 open · checked 36 of 36 configured boards
+8 new relevant role(s) · 0 closed · 152 open · checked 36 of 36 configured boards
 
 ## New roles (highest score first)
-- **91** · **OCBC** — [Internship: Group Human Resources Division, People Operations and Digital HR, Digital and Data Enablement [Jan to May 2027]](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Human-Resources-Division--People-Operations-and-Digital-HR--Digital-and-Data-Enablement--Jan-to-May-2027-_JR00011881) · Jan 2027 – May 2027 · Tier 2 (strong)
-- **91** · **OCBC** — [Internship: Group Human Resources, People Operations and Digital HR, Digital and Data Enablement, Digital Platforms [Jan to May 2027]](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Human-Resources--People-Operations-and-Digital-HR--Digital-and-Data-Enablement--Digital-Platforms--Jan-to-May-2027-_JR00011880) · Jan 2027 – May 2027 · Tier 2 (strong)
-- **91** · **OCBC** — [Internship: Group Human Resources, People Operations and Digital HR, Digital and Data Enablement, Operational Excellence and Intelligence [Jan to May 2027]](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Human-Resources--People-Operations-and-Digital-HR--Digital-and-Data-Enablement--Operational-Excellence-and-Intelligence--Jan-to-May-2027-_JR00011879) · Jan 2027 – May 2027 · Tier 2 (strong)
-- **90** · **OCBC** — [Internship: Group Human Resources, People Analytics and Engagement, HR Marketing and Communications [Jan to May 2027]](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Human-Resources--People-Analytics-and-Engagement--HR-Marketing-and-Communications--Jan-to-May-2027-_JR00011877) · Jan 2027 – May 2027 · Tier 2 (strong)
-
-## New, dates unclear (worth a manual look)
-- OCBC — [Business Manager, Sales Strategy and Management for Global South Asia & International (Vice President)](https://ocbc.wd102.myworkdayjobs.com/External/job/BOS-Singapore/Business-Manager--Sales-Strategy-and-Management-for-Global-South-Asia---International--Vice-President-_JR00011077)
-
-## Closed since the last run
-- OCBC — Internship: Global Consumer Financial Services, Marketing, Customer Value Marketing [Jan to Jun 2027]
-- Singapore Red Cross Society — Intern, Finance
+- **80** · **Mediacorp Pte. Ltd.** — [Internship - Business Management / Business Analytics (Commerce)](https://www.internsg.com/job/mediacorp-pte-ltd-internship-business-management-business-analytics-commerce/) · Flexible start, min 3 months · Tier 1 (stretch)
+- **73** · **CapBridge Pte. Ltd.** — [Business Development & Client Sucess Intern](https://www.internsg.com/job/capbridge-pte-ltd-business-development-client-sucess-intern/) · Flexible start, min 6 months · Tier 2 (stretch)
+- **70** · **AMO** — [Business & Wealth Management Internship](https://www.internsg.com/job/amo-business-wealth-management-internship/) · Dec 2026 – 18 Dec 2026 · Tier 1 (weak)
+- **69** · **Adept Business Consultancy Pte Ltd** — [Business Advisor Intern](https://www.internsg.com/job/adept-business-consultancy-pte-ltd-business-advisor-intern/) · Flexible start, min 6 months · Tier 2 (stretch)
+- **68** · **Martin Boey Organisation** — [Business Advisor Intern](https://www.internsg.com/job/martin-boey-organisation-business-advisor-intern/) · Flexible start, min 6 months · Tier 2 (stretch)
+- **67** · **CapBridge Pte. Ltd.** — [Trustee & Custody Intern](https://www.internsg.com/job/capbridge-pte-ltd-trustee-custody-intern-3/) · Flexible start, min 6 months · Tier 2 (stretch)
+- **62** · **FOMO Pay Pte. Ltd.** — [Operations Intern](https://www.internsg.com/job/fomo-pay-pte-ltd-operations-intern-11/) · Flexible start, min 3 months · Tier 1 (stretch)
+- **59** · **AIA** — [2 Week Finance Internship Pragramme](https://www.internsg.com/job/aia-2-week-internship-pragramme/) · 7 Dec 2026 – 18 Dec 2026 · Tier 1 (weak)
