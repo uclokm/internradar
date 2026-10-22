@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-21",
-  "run_at": "2026-10-21T00:11:59+00:00",
-  "new_relevant": 2,
+  "date": "2026-10-22",
+  "run_at": "2026-10-22T00:16:44+00:00",
+  "new_relevant": 0,
   "new_tier1": 0,
-  "new_tier2": 2,
-  "new_unclear": 2,
-  "closed": 3,
-  "open": 153,
+  "new_tier2": 0,
+  "new_unclear": 0,
+  "closed": 4,
+  "open": 150,
   "boards_configured": 36,
-  "boards_checked": 36,
-  "boards_failed": 0,
+  "boards_checked": 35,
+  "boards_failed": 1,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -42,14 +42,14 @@
     {
       "board": "greenhouse:jumptrading",
       "ok": true,
-      "fetched": 18,
+      "fetched": 17,
       "kept": 3,
       "error": ""
     },
     {
       "board": "greenhouse:janestreet",
       "ok": true,
-      "fetched": 15,
+      "fetched": 14,
       "kept": 0,
       "error": ""
     },
@@ -119,29 +119,29 @@
     {
       "board": "greenhouse:coinbase",
       "ok": true,
-      "fetched": 6,
+      "fetched": 5,
       "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 124,
+      "fetched": 127,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 209,
-      "kept": 2,
+      "fetched": 207,
+      "kept": 0,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 9,
-      "kept": 7,
+      "fetched": 8,
+      "kept": 6,
       "error": ""
     },
     {
@@ -155,7 +155,7 @@
       "board": "workday:capitaland",
       "ok": true,
       "fetched": 25,
-      "kept": 13,
+      "kept": 12,
       "error": ""
     },
     {
@@ -210,7 +210,7 @@
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 26,
+      "fetched": 27,
       "kept": 12,
       "error": ""
     },
@@ -258,10 +258,10 @@
     },
     {
       "board": "internsg",
-      "ok": true,
-      "fetched": 88,
-      "kept": 81,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://www.internsg.com/job/thereafter-pte-ltd-content-strategy-research-intern/"
     }
   ]
 }

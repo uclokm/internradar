@@ -1,16 +1,13 @@
-# InternRadar — Wed 21 Oct 2026
+# InternRadar — Thu 22 Oct 2026
 
-2 new relevant role(s) · 3 closed · 153 open · checked 36 of 36 configured boards
-
-## New roles (highest score first)
-- **91** · **MUFG** — [IT/Cyber Risk Management Intern](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/IT-Cyber-Risk-Management-Intern_10079844-WD) · 11 Jan 2027 – Jun 2027 · Tier 2 (strong)
-- **65** · **Mitsubishi Corporation RtM International Pte Ltd** — [Digital Transformation Intern](https://www.internsg.com/job/mitsubishi-corporation-rtm-international-pte-ltd-digital-transformation-intern-3/) · Flexible start, min 6 months · Tier 2 (stretch)
-
-## New, dates unclear (worth a manual look)
-- OCBC — [International Wealth Premier Manager - ASEAN Indo](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/International-Wealth-Premier-Business-Services-Management---VP_JR00011745)
-- ING — [Intern, Rates Trading](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Singapore/Intern--Rates-Trading_REQ-10123517)
+0 new relevant role(s) · 4 closed · 150 open · checked 35 of 36 configured boards · **1 failed**
 
 ## Closed since the last run
-- Lion Global Investors Ltd — Intern, Trade & Database Services (Robotic Process Automation)
-- Lion Global Investors Ltd — Intern, Trade & Database Services (Transaction Processing)
-- Oakwood & Drehem Capital — Investment Banking Intern
+- OKX — Product Director, Internal HR & Finance Systems
+- OKX — Product Director, Internal HR & Finance Systems
+- OCBC — Internship: Global Corporate Banking, GWB Sustainability [Jan to Jun 2027]
+- CapitaLand — Intern, Data Analytics
+
+## Boards that could not be checked
+Their postings were left open (not marked closed).
+- `internsg` — HTTPError: 500 Server Error: Internal Server Error for url: https://www.internsg.com/job/thereafter-pte-ltd-content-strategy-research-intern/
