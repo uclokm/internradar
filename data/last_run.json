@@ -1,34 +1,34 @@
 {
-  "date": "2026-10-22",
-  "run_at": "2026-10-22T00:16:44+00:00",
-  "new_relevant": 0,
-  "new_tier1": 0,
-  "new_tier2": 0,
-  "new_unclear": 0,
-  "closed": 4,
-  "open": 150,
+  "date": "2026-10-23",
+  "run_at": "2026-10-23T00:13:29+00:00",
+  "new_relevant": 7,
+  "new_tier1": 3,
+  "new_tier2": 4,
+  "new_unclear": 1,
+  "closed": 9,
+  "open": 149,
   "boards_configured": 36,
-  "boards_checked": 35,
-  "boards_failed": 1,
+  "boards_checked": 36,
+  "boards_failed": 0,
   "boards": [
     {
       "board": "greenhouse:drweng",
       "ok": true,
-      "fetched": 20,
+      "fetched": 19,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:quberesearchandtechnologies",
       "ok": true,
-      "fetched": 13,
-      "kept": 2,
+      "fetched": 12,
+      "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:squarepointcapital",
       "ok": true,
-      "fetched": 56,
+      "fetched": 57,
       "kept": 1,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 51,
+      "fetched": 54,
       "kept": 3,
       "error": ""
     },
@@ -119,14 +119,14 @@
     {
       "board": "greenhouse:coinbase",
       "ok": true,
-      "fetched": 5,
+      "fetched": 6,
       "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 127,
+      "fetched": 130,
       "kept": 1,
       "error": ""
     },
@@ -140,21 +140,21 @@
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 8,
-      "kept": 6,
+      "fetched": 5,
+      "kept": 3,
       "error": ""
     },
     {
       "board": "workday:keppel",
       "ok": true,
-      "fetched": 4,
+      "fetched": 3,
       "kept": 1,
       "error": ""
     },
     {
       "board": "workday:capitaland",
       "ok": true,
-      "fetched": 25,
+      "fetched": 24,
       "kept": 12,
       "error": ""
     },
@@ -182,7 +182,7 @@
     {
       "board": "workday:pwc",
       "ok": true,
-      "fetched": 24,
+      "fetched": 23,
       "kept": 9,
       "error": ""
     },
@@ -190,7 +190,7 @@
       "board": "workday:tencent",
       "ok": true,
       "fetched": 5,
-      "kept": 2,
+      "kept": 3,
       "error": ""
     },
     {
@@ -238,8 +238,8 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 7,
-      "kept": 3,
+      "fetched": 6,
+      "kept": 2,
       "error": ""
     },
     {
@@ -258,10 +258,10 @@
     },
     {
       "board": "internsg",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://www.internsg.com/job/thereafter-pte-ltd-content-strategy-research-intern/"
+      "ok": true,
+      "fetched": 92,
+      "kept": 85,
+      "error": ""
     }
   ]
 }
