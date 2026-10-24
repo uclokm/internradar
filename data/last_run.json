@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-24",
-  "run_at": "2026-10-24T00:05:52+00:00",
-  "new_relevant": 3,
-  "new_tier1": 1,
-  "new_tier2": 2,
+  "date": "2026-10-25",
+  "run_at": "2026-10-24T23:48:46+00:00",
+  "new_relevant": 0,
+  "new_tier1": 0,
+  "new_tier2": 0,
   "new_unclear": 0,
-  "closed": 4,
-  "open": 148,
+  "closed": 2,
+  "open": 146,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 89,
-      "kept": 82,
+      "fetched": 86,
+      "kept": 79,
       "error": ""
     }
   ]
