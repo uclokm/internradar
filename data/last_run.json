@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-26",
-  "run_at": "2026-10-25T23:37:53+00:00",
-  "new_relevant": 0,
-  "new_tier1": 0,
+  "date": "2026-10-27",
+  "run_at": "2026-10-27T00:55:55+00:00",
+  "new_relevant": 2,
+  "new_tier1": 2,
   "new_tier2": 0,
-  "new_unclear": 0,
-  "closed": 2,
-  "open": 144,
+  "new_unclear": 3,
+  "closed": 0,
+  "open": 149,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -14,7 +14,7 @@
     {
       "board": "greenhouse:drweng",
       "ok": true,
-      "fetched": 19,
+      "fetched": 18,
       "kept": 1,
       "error": ""
     },
@@ -56,21 +56,21 @@
     {
       "board": "greenhouse:virtu",
       "ok": true,
-      "fetched": 13,
+      "fetched": 12,
       "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:point72",
       "ok": true,
-      "fetched": 9,
+      "fetched": 10,
       "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:akunacapital",
       "ok": true,
-      "fetched": 2,
+      "fetched": 1,
       "kept": 0,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 52,
+      "fetched": 51,
       "kept": 3,
       "error": ""
     },
@@ -119,29 +119,29 @@
     {
       "board": "greenhouse:coinbase",
       "ok": true,
-      "fetched": 6,
+      "fetched": 7,
       "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 134,
+      "fetched": 141,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 210,
+      "fetched": 214,
       "kept": 0,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 4,
-      "kept": 3,
+      "fetched": 7,
+      "kept": 6,
       "error": ""
     },
     {
@@ -154,7 +154,7 @@
     {
       "board": "workday:capitaland",
       "ok": true,
-      "fetched": 24,
+      "fetched": 25,
       "kept": 12,
       "error": ""
     },
@@ -182,7 +182,7 @@
     {
       "board": "workday:pwc",
       "ok": true,
-      "fetched": 22,
+      "fetched": 23,
       "kept": 8,
       "error": ""
     },
@@ -238,7 +238,7 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 6,
+      "fetched": 5,
       "kept": 2,
       "error": ""
     },
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 84,
-      "kept": 78,
+      "fetched": 88,
+      "kept": 82,
       "error": ""
     }
   ]
