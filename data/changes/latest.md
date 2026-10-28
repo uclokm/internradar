@@ -1,12 +1,19 @@
-# InternRadar — Tue 27 Oct 2026
+# InternRadar — Wed 28 Oct 2026
 
-2 new relevant role(s) · 0 closed · 149 open · checked 36 of 36 configured boards
+4 new relevant role(s) · 5 closed · 149 open · checked 36 of 36 configured boards
 
 ## New roles (highest score first)
-- **71** · **3dvanced Pte Ltd** — [Group Business Development & Strategy Intern](https://www.internsg.com/job/3dvanced-pte-ltd-group-business-development-strategy-intern/) · Flexible start, min 3 months · Tier 1 (stretch)
-- **69** · **Great Eastern Financial Advisers Private Limited** — [Business & Wealth Management Intern](https://www.internsg.com/job/great-eastern-financial-advisers-private-limited-business-wealth-management-intern/) · 7 Dec 2026 – 11 Dec 2026 · Tier 1 (weak)
+- **82** · **CapitaLand** — [Intern, Audit (Data Analytics) (Jan 27 - Jun 27)](https://capitaland.wd3.myworkdayjobs.com/CapitaLandGroup/job/Singapore-Central-Singapore/Intern--Audit--Data-Analytics---Jan-27---Jun-27-_JR005089-2) · Jan 2027 – Jun 2027 · Tier 2 (strong)
+- **78** · **CapitaLand** — [Intern, Finance (Jan - Jun 2027)](https://capitaland.wd3.myworkdayjobs.com/CapitaLandGroup/job/Singapore-Central-Singapore/Intern--Finance--Jan---Jun-2027-_JR005014-1) · Jan 2027 – Jun 2027 · Tier 2 (strong)
+- **74** · **CITIC Commodities Pte Ltd** — [Business Analyst Intern](https://www.internsg.com/job/citic-commodities-pte-ltd-business-analyst-intern-3/) · Flexible start, min 6 months · Tier 2 (stretch)
+- **67** · **Yan Business Group** — [Finance Internship](https://www.internsg.com/job/yan-business-group-finance-internship/) · Nov 2026 – 28 Dec 2026 · Tier 1 (strong)
 
 ## New, dates unclear (worth a manual look)
-- OCBC — [Relationship Manager, Enterprise Banking International, Chinese Corporate Business, Technology Industry](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Relationship-Manager--Enterprise-Banking-International--Chinese-Corporate-Business--Technology-Industry_JR00008387-2)
-- OCBC — [International Wealth Premier Manager (Malaysia Market)](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Offshore-Premier-Manager_JR00007424)
-- OCBC — [International Wealth Premier Manager (NA - Taiwan Desk)](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Offshore-Premier-Manager--OPM----North-Asia_JR00004942)
+- ING — [Intern, Finance Data & Analytics](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Singapore/Intern--Finance-Data---Analytics_REQ-10123860)
+
+## Closed since the last run
+- OCBC — International Wealth Premier Manager - ASEAN Indo
+- Lion Global Investors Ltd — Intern, Multi-Asset Strategies Team (MAST)
+- Univers Pte Ltd — Finance Intern
+- PAG Advisors — Business Growth & People Strategy Intern
+- Lion Global Investors Ltd — Intern, Reconciliation & Reporting Services
