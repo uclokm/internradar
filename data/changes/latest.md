@@ -1,19 +1,18 @@
-# InternRadar — Wed 28 Oct 2026
+# InternRadar — Thu 29 Oct 2026
 
-4 new relevant role(s) · 5 closed · 149 open · checked 36 of 36 configured boards
+6 new relevant role(s) · 2 closed · 154 open · checked 36 of 36 configured boards
 
 ## New roles (highest score first)
-- **82** · **CapitaLand** — [Intern, Audit (Data Analytics) (Jan 27 - Jun 27)](https://capitaland.wd3.myworkdayjobs.com/CapitaLandGroup/job/Singapore-Central-Singapore/Intern--Audit--Data-Analytics---Jan-27---Jun-27-_JR005089-2) · Jan 2027 – Jun 2027 · Tier 2 (strong)
-- **78** · **CapitaLand** — [Intern, Finance (Jan - Jun 2027)](https://capitaland.wd3.myworkdayjobs.com/CapitaLandGroup/job/Singapore-Central-Singapore/Intern--Finance--Jan---Jun-2027-_JR005014-1) · Jan 2027 – Jun 2027 · Tier 2 (strong)
-- **74** · **CITIC Commodities Pte Ltd** — [Business Analyst Intern](https://www.internsg.com/job/citic-commodities-pte-ltd-business-analyst-intern-3/) · Flexible start, min 6 months · Tier 2 (stretch)
-- **67** · **Yan Business Group** — [Finance Internship](https://www.internsg.com/job/yan-business-group-finance-internship/) · Nov 2026 – 28 Dec 2026 · Tier 1 (strong)
+- **87** · **SWC Global, Venture Capital** — [Investment Analyst Internship](https://www.internsg.com/job/swc-global-venture-capital-investment-analyst-internship-investment-analyst-internship/) · Flexible start, min 3 months · Tier 1 (stretch)
+- **79** · **Lion Global Investors Ltd** — [Intern, Investment Compliance](https://www.internsg.com/job/lion-global-investors-ltd-intern-investment-compliance-6/) · Feb 2027 – Jul 2027 · Tier 2 (strong)
+- **75** · **AXS Pte Ltd** — [Finance Operations Intern](https://www.internsg.com/job/axs-pte-ltd-finance-operations-intern/) · Flexible start, min 3 months · Tier 1 (stretch)
+- **71** · **Lion Global Investors Ltd** — [Intern, Client Solutions Office](https://www.internsg.com/job/lion-global-investors-ltd-intern-client-solutions-office-3/) · Dec 2026 – May 2027 · Tier 2 (strong)
+- **70** · **Lion Global Investors Ltd** — [Intern, Fixed Income](https://www.internsg.com/job/lion-global-investors-ltd-intern-fixed-income-3/) · Jan 2027 – Jun 2027 · Tier 2 (strong)
+- **70** · **Wealth Asia** — [Money & Wealth Entrepreneurship Internship](https://www.internsg.com/job/wealth-asia-8-days-entrepreneurship-internship-1000/) · Nov 2026 – 9 Dec 2026 · Tier 1 (weak)
 
 ## New, dates unclear (worth a manual look)
-- ING — [Intern, Finance Data & Analytics](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Singapore/Intern--Finance-Data---Analytics_REQ-10123860)
+- OCBC — [International Wealth - Affluent Team Manager](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/International-Wealth---Affluent-Team-Manager_JR00012198)
 
 ## Closed since the last run
-- OCBC — International Wealth Premier Manager - ASEAN Indo
-- Lion Global Investors Ltd — Intern, Multi-Asset Strategies Team (MAST)
-- Univers Pte Ltd — Finance Intern
-- PAG Advisors — Business Growth & People Strategy Intern
-- Lion Global Investors Ltd — Intern, Reconciliation & Reporting Services
+- OCBC — [2yrs contract] AVP, Business Analyst – Technology Solutions – Corporate (Digital Banking covering Corporate Internet Banking & Mobile Banking)
+- CapitaLand — Intern, Investment & Asset Management (Lodging Funds) (Jan 27 - Jun 27)
