@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-31",
-  "run_at": "2026-10-31T01:07:29+00:00",
+  "date": "2026-11-01",
+  "run_at": "2026-11-01T00:29:24+00:00",
   "new_relevant": 1,
-  "new_tier1": 0,
-  "new_tier2": 1,
+  "new_tier1": 1,
+  "new_tier2": 0,
   "new_unclear": 0,
-  "closed": 3,
-  "open": 154,
+  "closed": 6,
+  "open": 149,
   "boards_configured": 36,
-  "boards_checked": 35,
-  "boards_failed": 1,
+  "boards_checked": 36,
+  "boards_failed": 0,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -98,14 +98,14 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 48,
+      "fetched": 47,
       "kept": 3,
       "error": ""
     },
     {
       "board": "greenhouse:xendit",
       "ok": true,
-      "fetched": 10,
+      "fetched": 11,
       "kept": 0,
       "error": ""
     },
@@ -140,8 +140,8 @@
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 5,
-      "kept": 4,
+      "fetched": 4,
+      "kept": 3,
       "error": ""
     },
     {
@@ -161,8 +161,8 @@
     {
       "board": "workday:mufgub",
       "ok": true,
-      "fetched": 15,
-      "kept": 8,
+      "fetched": 12,
+      "kept": 5,
       "error": ""
     },
     {
@@ -258,10 +258,10 @@
     },
     {
       "board": "internsg",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/amo-business-wealth-management-internship/?filter_s=Bw"
+      "ok": true,
+      "fetched": 92,
+      "kept": 86,
+      "error": ""
     }
   ]
 }

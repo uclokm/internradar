@@ -1,15 +1,14 @@
-# InternRadar — Sat 31 Oct 2026
+# InternRadar — Sun 01 Nov 2026
 
-1 new relevant role(s) · 3 closed · 154 open · checked 35 of 36 configured boards · **1 failed**
+1 new relevant role(s) · 6 closed · 149 open · checked 36 of 36 configured boards
 
 ## New roles (highest score first)
-- **77** · **Moomoo** — [Financial Media & Content Intern](https://apply.workable.com/moomoo/j/F08FD86BE4/) · Jan 2027 – Jun 2027 · Tier 2 (strong)
+- **76** · **Prudential** — [Finance Internship](https://www.internsg.com/job/prudential-finance-internship-5/) · Nov 2026 – 29 Dec 2026 · Tier 1 (strong)
 
 ## Closed since the last run
-- OCBC — Internship:Group Operations & Technology, Group Engineering – Digital Channels (Avatar Banking) [January - May 2027]
-- Blackstone — 2027 Real Estate Finance, Off Cycle Intern (January to June), Singapore
-- Hong Leong Bank — Intern - Credit (Policy & Analytics)
-
-## Boards that could not be checked
-Their postings were left open (not marked closed).
-- `internsg` — HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/amo-business-wealth-management-internship/?filter_s=Bw
+- OCBC — International Wealth Premier Manager (NA - Taiwan Desk)
+- MUFG — Financial Planning (Expense Management) Intern
+- MUFG — Financial Crimes Compliance – Complex Investigations Intern
+- MUFG — Financial Planning (Balance Sheet Management) Intern
+- Ban Leong Technologies Pte Ltd — Data Analyst Intern
+- UOB Kay Hian — Private Wealth Management Intern
