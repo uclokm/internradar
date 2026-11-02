@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-01",
-  "run_at": "2026-11-01T00:29:24+00:00",
-  "new_relevant": 1,
-  "new_tier1": 1,
+  "date": "2026-11-02",
+  "run_at": "2026-11-02T01:04:22+00:00",
+  "new_relevant": 0,
+  "new_tier1": 0,
   "new_tier2": 0,
   "new_unclear": 0,
-  "closed": 6,
-  "open": 149,
+  "closed": 4,
+  "open": 145,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 47,
+      "fetched": 48,
       "kept": 3,
       "error": ""
     },
@@ -126,22 +126,22 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 146,
+      "fetched": 140,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 230,
+      "fetched": 232,
       "kept": 0,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 4,
-      "kept": 3,
+      "fetched": 3,
+      "kept": 2,
       "error": ""
     },
     {
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 92,
-      "kept": 86,
+      "fetched": 89,
+      "kept": 83,
       "error": ""
     }
   ]
