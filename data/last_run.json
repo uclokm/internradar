@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-02",
-  "run_at": "2026-11-02T01:04:22+00:00",
-  "new_relevant": 0,
+  "date": "2026-11-03",
+  "run_at": "2026-11-03T03:06:36+00:00",
+  "new_relevant": 1,
   "new_tier1": 0,
-  "new_tier2": 0,
-  "new_unclear": 0,
-  "closed": 4,
-  "open": 145,
+  "new_tier2": 1,
+  "new_unclear": 2,
+  "closed": 1,
+  "open": 147,
   "boards_configured": 36,
-  "boards_checked": 36,
-  "boards_failed": 0,
+  "boards_checked": 35,
+  "boards_failed": 1,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -63,7 +63,7 @@
     {
       "board": "greenhouse:point72",
       "ok": true,
-      "fetched": 10,
+      "fetched": 9,
       "kept": 0,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 48,
+      "fetched": 47,
       "kept": 3,
       "error": ""
     },
@@ -126,8 +126,8 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 140,
-      "kept": 1,
+      "fetched": 138,
+      "kept": 2,
       "error": ""
     },
     {
@@ -140,14 +140,14 @@
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 3,
+      "fetched": 2,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:keppel",
       "ok": true,
-      "fetched": 8,
+      "fetched": 10,
       "kept": 2,
       "error": ""
     },
@@ -189,7 +189,7 @@
     {
       "board": "workday:tencent",
       "ok": true,
-      "fetched": 5,
+      "fetched": 6,
       "kept": 3,
       "error": ""
     },
@@ -210,8 +210,8 @@
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 29,
-      "kept": 13,
+      "fetched": 30,
+      "kept": 14,
       "error": ""
     },
     {
@@ -258,10 +258,10 @@
     },
     {
       "board": "internsg",
-      "ok": true,
-      "fetched": 89,
-      "kept": 83,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/superminted-pte-ltd-brand-strategy-intern/?f_p=166"
     }
   ]
 }
