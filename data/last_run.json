@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-03",
-  "run_at": "2026-11-03T03:06:36+00:00",
-  "new_relevant": 1,
+  "date": "2026-11-04",
+  "run_at": "2026-11-04T01:44:08+00:00",
+  "new_relevant": 0,
   "new_tier1": 0,
-  "new_tier2": 1,
-  "new_unclear": 2,
-  "closed": 1,
-  "open": 147,
+  "new_tier2": 0,
+  "new_unclear": 0,
+  "closed": 6,
+  "open": 141,
   "boards_configured": 36,
   "boards_checked": 35,
   "boards_failed": 1,
@@ -14,7 +14,7 @@
     {
       "board": "greenhouse:drweng",
       "ok": true,
-      "fetched": 16,
+      "fetched": 15,
       "kept": 1,
       "error": ""
     },
@@ -42,7 +42,7 @@
     {
       "board": "greenhouse:jumptrading",
       "ok": true,
-      "fetched": 17,
+      "fetched": 16,
       "kept": 3,
       "error": ""
     },
@@ -77,7 +77,7 @@
     {
       "board": "greenhouse:towerresearchcapital",
       "ok": true,
-      "fetched": 23,
+      "fetched": 22,
       "kept": 2,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 47,
+      "fetched": 45,
       "kept": 3,
       "error": ""
     },
@@ -126,28 +126,28 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 138,
-      "kept": 2,
+      "fetched": 129,
+      "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 232,
+      "fetched": 230,
       "kept": 0,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 2,
+      "fetched": 3,
       "kept": 2,
       "error": ""
     },
     {
       "board": "workday:keppel",
       "ok": true,
-      "fetched": 10,
+      "fetched": 11,
       "kept": 2,
       "error": ""
     },
@@ -210,8 +210,8 @@
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 30,
-      "kept": 14,
+      "fetched": 16,
+      "kept": 9,
       "error": ""
     },
     {
@@ -238,7 +238,7 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 5,
+      "fetched": 4,
       "kept": 2,
       "error": ""
     },
@@ -261,7 +261,7 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/superminted-pte-ltd-brand-strategy-intern/?f_p=166"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/tsao-foundation-finance-intern-2/?utm_campaign=joraau"
     }
   ]
 }
