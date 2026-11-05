@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-04",
-  "run_at": "2026-11-04T01:44:08+00:00",
-  "new_relevant": 0,
-  "new_tier1": 0,
-  "new_tier2": 0,
-  "new_unclear": 0,
-  "closed": 6,
-  "open": 141,
+  "date": "2026-11-05",
+  "run_at": "2026-11-05T01:51:45+00:00",
+  "new_relevant": 3,
+  "new_tier1": 1,
+  "new_tier2": 2,
+  "new_unclear": 4,
+  "closed": 12,
+  "open": 136,
   "boards_configured": 36,
-  "boards_checked": 35,
-  "boards_failed": 1,
+  "boards_checked": 36,
+  "boards_failed": 0,
   "boards": [
     {
       "board": "greenhouse:drweng",
       "ok": true,
-      "fetched": 15,
+      "fetched": 16,
       "kept": 1,
       "error": ""
     },
@@ -98,14 +98,14 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 45,
+      "fetched": 50,
       "kept": 3,
       "error": ""
     },
     {
       "board": "greenhouse:xendit",
       "ok": true,
-      "fetched": 11,
+      "fetched": 10,
       "kept": 0,
       "error": ""
     },
@@ -126,22 +126,22 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 129,
+      "fetched": 124,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 230,
+      "fetched": 228,
       "kept": 0,
       "error": ""
     },
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 3,
-      "kept": 2,
+      "fetched": 2,
+      "kept": 1,
       "error": ""
     },
     {
@@ -155,7 +155,7 @@
       "board": "workday:capitaland",
       "ok": true,
       "fetched": 25,
-      "kept": 14,
+      "kept": 13,
       "error": ""
     },
     {
@@ -182,8 +182,8 @@
     {
       "board": "workday:pwc",
       "ok": true,
-      "fetched": 25,
-      "kept": 9,
+      "fetched": 24,
+      "kept": 8,
       "error": ""
     },
     {
@@ -203,15 +203,15 @@
     {
       "board": "workday:hlb",
       "ok": true,
-      "fetched": 4,
-      "kept": 1,
+      "fetched": 6,
+      "kept": 3,
       "error": ""
     },
     {
       "board": "workday:ing",
       "ok": true,
-      "fetched": 16,
-      "kept": 9,
+      "fetched": 15,
+      "kept": 8,
       "error": ""
     },
     {
@@ -231,7 +231,7 @@
     {
       "board": "workday:cdpq",
       "ok": true,
-      "fetched": 2,
+      "fetched": 3,
       "kept": 0,
       "error": ""
     },
@@ -245,8 +245,8 @@
     {
       "board": "workable:moomoo",
       "ok": true,
-      "fetched": 4,
-      "kept": 1,
+      "fetched": 7,
+      "kept": 2,
       "error": ""
     },
     {
@@ -258,10 +258,10 @@
     },
     {
       "board": "internsg",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/tsao-foundation-finance-intern-2/?utm_campaign=joraau"
+      "ok": true,
+      "fetched": 88,
+      "kept": 81,
+      "error": ""
     }
   ]
 }
