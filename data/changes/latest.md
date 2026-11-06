@@ -1,28 +1,19 @@
-# InternRadar — Thu 05 Nov 2026
+# InternRadar — Fri 06 Nov 2026
 
-3 new relevant role(s) · 12 closed · 136 open · checked 36 of 36 configured boards
+3 new relevant role(s) · 3 closed · 140 open · checked 36 of 36 configured boards
 
 ## New roles (highest score first)
-- **93** · **EssilorLuxottica** — [APAC Elite Portfolio Business Strategy Intern](https://www.internsg.com/job/essilorluxottica-apac-elite-portfolio-business-strategy-intern/) · Jan 2027 – Jun 2027 · Tier 2 (strong)
-- **83** · **Professional Investment Advisory Services Pte. Ltd.** — [Business Analyst (Digital Transformation & Automation) Intern](https://www.internsg.com/job/professional-investment-advisory-services-pte-ltd-business-analyst-digital-transformation-automation-intern/) · Flexible start, min 6 months · Tier 2 (stretch)
-- **59** · **AIA** — [2 Weeks Finance Internship](https://www.internsg.com/job/aia-2-week-intenrship/) · 7 Dec 2026 – 18 Dec 2026 · Tier 1 (weak)
+- **92** · **OCBC** — [Internship: Group Risk Management, Group Non-Financial Risk Management, ORM Central Programme & Systems Management [Dec26 to May27]](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Non-Financial-Risk-Management--ORM-Central-Programme---Systems-Management--Dec26-to-May27-_JR00012382) · Dec 2026 – May 2027 · Tier 2 (strong)
+- **91** · **CapitaLand** — [Intern, Investment & Asset Management, CLASML (Jan 27 - Jun 27)](https://capitaland.wd3.myworkdayjobs.com/CapitaLandGroup/job/Singapore-Central-Singapore/Intern--Investment---Asset-Management--CLASML--Jan-27---Jun-27-_JR005111-1) · Jan 2027 – Jun 2027 · Tier 2 (strong)
+- **79** · **Libeara (Singapore) Pte. Ltd.** — [Risk Management and Compliance Intern](https://www.internsg.com/job/libeara-singapore-pte-ltd-risk-management-and-compliance-intern-2/) · 7 Dec 2026 – 22 Jan 2027 · Tier 1 (strong)
 
 ## New, dates unclear (worth a manual look)
-- CapitaLand — [Intern, Data Analytics (Data Engineer) (Jan - Jul '27)](https://capitaland.wd3.myworkdayjobs.com/CapitaLandGroup/job/Singapore-Central-Singapore/Intern--Data-Analytics--Data-Engineer---Jan---Jul--27-_JR005132-1)
-- CapitaLand — [Intern, Strategy Development](https://capitaland.wd3.myworkdayjobs.com/CapitaLandGroup/job/Singapore-Central-Singapore/Intern--Strategy-Development_JR005133-1)
-- Hong Leong Bank — [Intern - Regional Wealth Management](https://hlb.wd3.myworkdayjobs.com/HLBCareers/job/Singapore/Intern---Regional-Wealth-Management_JR0000026603)
-- Moomoo — [Finance Intern](https://apply.workable.com/moomoo/j/97359283EC/)
+- OCBC — [International Wealth - Affluent Team Manager](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/International-Wealth---Affluent-Team-Manager_JR00012198)
+- OCBC — [Business Manager, Sales Strategy and Management for Global South Asia & International (Vice President)](https://ocbc.wd102.myworkdayjobs.com/External/job/BOS-Singapore/Business-Manager--Sales-Strategy-and-Management-for-Global-South-Asia---International--Vice-President-_JR00011077)
+- Hong Leong Bank — [Intern - Community Banking (RM Assistant)](https://hlb.wd3.myworkdayjobs.com/HLBCareers/job/Singapore/Intern---Community-Banking--RM-Assistant-_JR0000026083)
+- Hong Leong Bank — [Intern – Business & Corporate Banking (Trade & KYC)](https://hlb.wd3.myworkdayjobs.com/HLBCareers/job/Singapore/Intern---Business---Corporate-Banking--Trade---KYC-_JR0000026854)
 
 ## Closed since the last run
-- OCBC — International Wealth - Affluent Team Manager
-- CapitaLand — Intern, Data & AI (Data Engineering) (Off-cycle Jan-Jun 2027)
-- CapitaLand — Intern, Digital & Technology (Data & AI) (Business Analyst) (Off-cycle Jan - June 2027)
-- CapitaLand — Intern, Digital & Technology (Data & AI) (Data Science) (Off-cycle Jan - Jun 2027)
-- PwC — One Deals Off-Cycle Internship (Jan - Jun 27)
-- ING — Intern, Rates Trading
-- Thereafter Pte Ltd — Financial Research Intern
-- AIA — AIA Winter Internship Programme (Financial Services)
-- Thereafter Pte Ltd — Content Strategy & Research Intern
-- Yit Hong Pte Ltd — Intern - Strategy & Transformation
-- Adept Business Consultancy — Business Analyst Intern
-- Helix — Business Analyst Intern
+- CapitaLand — Intern, Product Management (Data Analyst) (Jan-Jul 2027 / Mar-Aug 2027)
+- MUFG — Client Services and Data Management Intern
+- Martin Boey Organisation — Business Analyst Intern
