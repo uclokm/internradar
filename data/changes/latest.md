@@ -1,12 +1,13 @@
-# InternRadar — Sun 08 Nov 2026
+# InternRadar — Mon 09 Nov 2026
 
-0 new relevant role(s) · 3 closed · 135 open · checked 35 of 36 configured boards · **1 failed**
+0 new relevant role(s) · 4 closed · 131 open · checked 35 of 36 configured boards · **1 failed**
 
 ## Closed since the last run
-- MUFG — Enterprise Risk Management Intern
-- MUFG — Data and AI Engineering Intern
-- MUFG — Transaction Banking Product (Documentary Trade and ESG) Intern
+- PwC — Consulting - Clients & Markets Off Cycle Internship (Jan - Jun '27)
+- AMO — FutureReady: Business & Finance Internship
+- National Volunteer & Philanthropy Centre — Intern, Finance
+- Hydroleap Pte Ltd — Strategy & Finance Intern
 
 ## Boards that could not be checked
 Their postings were left open (not marked closed).
-- `internsg` — HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/axs-pte-ltd-data-analytics-intern-2/?noamp=mobile
+- `workday:blackstone` — HTTPError: 401 Client Error: Unauthorized for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs
