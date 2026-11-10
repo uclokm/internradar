@@ -1,13 +1,12 @@
-# InternRadar — Mon 09 Nov 2026
+# InternRadar — Tue 10 Nov 2026
 
-0 new relevant role(s) · 4 closed · 131 open · checked 35 of 36 configured boards · **1 failed**
+1 new relevant role(s) · 4 closed · 128 open · checked 36 of 36 configured boards
+
+## New roles (highest score first)
+- **79** · **WA Partners** — [Career Exploration & Business Development Intern](https://www.internsg.com/job/wa-partners-career-exploration-business-development-intern/) · 8 Dec 2026 – 7 Jan 2027 · Tier 1 (strong)
 
 ## Closed since the last run
-- PwC — Consulting - Clients & Markets Off Cycle Internship (Jan - Jun '27)
-- AMO — FutureReady: Business & Finance Internship
-- National Volunteer & Philanthropy Centre — Intern, Finance
-- Hydroleap Pte Ltd — Strategy & Finance Intern
-
-## Boards that could not be checked
-Their postings were left open (not marked closed).
-- `workday:blackstone` — HTTPError: 401 Client Error: Unauthorized for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs
+- Guotai Junan International Asset Management (Singapore) Pte. Limited — Operations Intern
+- Prestige Corporate Services Pte Ltd — Finance Intern
+- Univers Pte Ltd — Strategy & Enablement Intern
+- Lion Global Investors Ltd — Intern, Fund Services
