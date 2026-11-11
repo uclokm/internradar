@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-10",
-  "run_at": "2026-11-10T03:51:49+00:00",
-  "new_relevant": 1,
+  "date": "2026-11-11",
+  "run_at": "2026-11-11T01:30:20+00:00",
+  "new_relevant": 2,
   "new_tier1": 1,
-  "new_tier2": 0,
+  "new_tier2": 1,
   "new_unclear": 0,
-  "closed": 4,
-  "open": 128,
+  "closed": 2,
+  "open": 129,
   "boards_configured": 36,
   "boards_checked": 36,
   "boards_failed": 0,
@@ -42,7 +42,7 @@
     {
       "board": "greenhouse:jumptrading",
       "ok": true,
-      "fetched": 16,
+      "fetched": 17,
       "kept": 3,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 48,
+      "fetched": 49,
       "kept": 3,
       "error": ""
     },
@@ -126,14 +126,14 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 117,
+      "fetched": 114,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 230,
+      "fetched": 236,
       "kept": 0,
       "error": ""
     },
@@ -154,7 +154,7 @@
     {
       "board": "workday:capitaland",
       "ok": true,
-      "fetched": 25,
+      "fetched": 24,
       "kept": 13,
       "error": ""
     },
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 79,
-      "kept": 73,
+      "fetched": 80,
+      "kept": 74,
       "error": ""
     }
   ]
