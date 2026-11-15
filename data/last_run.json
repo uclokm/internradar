@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-14",
-  "run_at": "2026-11-14T01:52:47+00:00",
-  "new_relevant": 3,
-  "new_tier1": 3,
+  "date": "2026-11-15",
+  "run_at": "2026-11-15T01:21:45+00:00",
+  "new_relevant": 0,
+  "new_tier1": 0,
   "new_tier2": 0,
   "new_unclear": 0,
-  "closed": 2,
+  "closed": 0,
   "open": 133,
   "boards_configured": 36,
-  "boards_checked": 34,
-  "boards_failed": 2,
+  "boards_checked": 33,
+  "boards_failed": 3,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -126,7 +126,7 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 117,
+      "fetched": 116,
       "kept": 1,
       "error": ""
     },
@@ -167,10 +167,10 @@
     },
     {
       "board": "workday:blackstone",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 521 Server Error: <none> for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs"
+      "ok": true,
+      "fetched": 1,
+      "kept": 1,
+      "error": ""
     },
     {
       "board": "workday:glencorecorp",
@@ -188,10 +188,10 @@
     },
     {
       "board": "workday:tencent",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 521 Server Error: <none> for url: https://tencent.wd1.myworkdayjobs.com/wday/cxs/tencent/Tencent_Careers/jobs"
+      "ok": true,
+      "fetched": 6,
+      "kept": 3,
+      "error": ""
     },
     {
       "board": "workday:fwd",
@@ -237,30 +237,30 @@
     },
     {
       "board": "workable:qcp-group",
-      "ok": true,
-      "fetched": 4,
-      "kept": 2,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/qcp-group/jobs"
     },
     {
       "board": "workable:moomoo",
-      "ok": true,
-      "fetched": 5,
-      "kept": 2,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/moomoo/jobs"
     },
     {
       "board": "workable:iglooinsure",
-      "ok": true,
-      "fetched": 1,
-      "kept": 1,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/iglooinsure/jobs"
     },
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 84,
-      "kept": 78,
+      "fetched": 82,
+      "kept": 77,
       "error": ""
     }
   ]
