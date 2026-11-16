@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-15",
-  "run_at": "2026-11-15T01:21:45+00:00",
-  "new_relevant": 0,
+  "date": "2026-11-16",
+  "run_at": "2026-11-16T01:26:49+00:00",
+  "new_relevant": 1,
   "new_tier1": 0,
-  "new_tier2": 0,
+  "new_tier2": 1,
   "new_unclear": 0,
   "closed": 0,
-  "open": 133,
+  "open": 134,
   "boards_configured": 36,
-  "boards_checked": 33,
-  "boards_failed": 3,
+  "boards_checked": 34,
+  "boards_failed": 2,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 58,
+      "fetched": 57,
       "kept": 3,
       "error": ""
     },
@@ -126,7 +126,7 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 116,
+      "fetched": 117,
       "kept": 1,
       "error": ""
     },
@@ -216,10 +216,10 @@
     },
     {
       "board": "workday:ardian",
-      "ok": true,
-      "fetched": 2,
+      "ok": false,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/jobs"
     },
     {
       "board": "workday:rhb",
@@ -230,31 +230,31 @@
     },
     {
       "board": "workday:cdpq",
-      "ok": true,
-      "fetched": 3,
+      "ok": false,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cdpq.wd10.myworkdayjobs.com/wday/cxs/cdpq/CDPQ-recrutement-universitaire/job/Singapore/Intern_R05006"
     },
     {
       "board": "workable:qcp-group",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/qcp-group/jobs"
+      "ok": true,
+      "fetched": 4,
+      "kept": 2,
+      "error": ""
     },
     {
       "board": "workable:moomoo",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/moomoo/jobs"
+      "ok": true,
+      "fetched": 5,
+      "kept": 2,
+      "error": ""
     },
     {
       "board": "workable:iglooinsure",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/iglooinsure/jobs"
+      "ok": true,
+      "fetched": 1,
+      "kept": 1,
+      "error": ""
     },
     {
       "board": "internsg",
