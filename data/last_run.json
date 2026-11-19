@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-18",
-  "run_at": "2026-11-18T03:10:41+00:00",
-  "new_relevant": 1,
-  "new_tier1": 0,
-  "new_tier2": 1,
-  "new_unclear": 1,
+  "date": "2026-11-19",
+  "run_at": "2026-11-19T02:51:19+00:00",
+  "new_relevant": 4,
+  "new_tier1": 2,
+  "new_tier2": 2,
+  "new_unclear": 0,
   "closed": 0,
-  "open": 132,
+  "open": 136,
   "boards_configured": 36,
-  "boards_checked": 24,
-  "boards_failed": 12,
+  "boards_checked": 26,
+  "boards_failed": 10,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 60,
+      "fetched": 59,
       "kept": 2,
       "error": ""
     },
@@ -119,21 +119,21 @@
     {
       "board": "greenhouse:coinbase",
       "ok": true,
-      "fetched": 9,
+      "fetched": 8,
       "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 111,
+      "fetched": 115,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 241,
+      "fetched": 243,
       "kept": 0,
       "error": ""
     },
@@ -160,17 +160,17 @@
     },
     {
       "board": "workday:mufgub",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/MUFG-EarlyCareers/jobs"
+    },
+    {
+      "board": "workday:blackstone",
       "ok": true,
       "fetched": 1,
       "kept": 1,
       "error": ""
-    },
-    {
-      "board": "workday:blackstone",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs"
     },
     {
       "board": "workday:glencorecorp",
@@ -216,10 +216,10 @@
     },
     {
       "board": "workday:ardian",
-      "ok": false,
-      "fetched": 0,
+      "ok": true,
+      "fetched": 2,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/jobs"
+      "error": ""
     },
     {
       "board": "workday:rhb",
@@ -238,8 +238,8 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 5,
-      "kept": 3,
+      "fetched": 8,
+      "kept": 5,
       "error": ""
     },
     {
@@ -258,10 +258,10 @@
     },
     {
       "board": "internsg",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/swc-global-venture-capital-investment-analyst-internship-3/?filter_s=ST"
+      "ok": true,
+      "fetched": 82,
+      "kept": 78,
+      "error": ""
     }
   ]
 }
