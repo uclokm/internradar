@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-19",
-  "run_at": "2026-11-19T02:51:19+00:00",
-  "new_relevant": 4,
-  "new_tier1": 2,
+  "date": "2026-11-20",
+  "run_at": "2026-11-20T02:41:24+00:00",
+  "new_relevant": 2,
+  "new_tier1": 0,
   "new_tier2": 2,
-  "new_unclear": 0,
-  "closed": 0,
-  "open": 136,
+  "new_unclear": 1,
+  "closed": 2,
+  "open": 137,
   "boards_configured": 36,
-  "boards_checked": 26,
-  "boards_failed": 10,
+  "boards_checked": 25,
+  "boards_failed": 11,
   "boards": [
     {
       "board": "greenhouse:drweng",
       "ok": true,
-      "fetched": 14,
+      "fetched": 16,
       "kept": 1,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 59,
+      "fetched": 57,
       "kept": 2,
       "error": ""
     },
@@ -119,21 +119,21 @@
     {
       "board": "greenhouse:coinbase",
       "ok": true,
-      "fetched": 8,
+      "fetched": 9,
       "kept": 0,
       "error": ""
     },
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 115,
+      "fetched": 117,
       "kept": 1,
       "error": ""
     },
     {
       "board": "greenhouse:okx",
       "ok": true,
-      "fetched": 243,
+      "fetched": 241,
       "kept": 0,
       "error": ""
     },
@@ -141,7 +141,7 @@
       "board": "workday:ocbc",
       "ok": true,
       "fetched": 3,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
@@ -167,17 +167,17 @@
     },
     {
       "board": "workday:blackstone",
-      "ok": true,
-      "fetched": 1,
-      "kept": 1,
-      "error": ""
-    },
-    {
-      "board": "workday:glencorecorp",
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://glencorecorp.wd3.myworkdayjobs.com/wday/cxs/glencorecorp/External/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs"
+    },
+    {
+      "board": "workday:glencorecorp",
+      "ok": true,
+      "fetched": 2,
+      "kept": 2,
+      "error": ""
     },
     {
       "board": "workday:pwc",
@@ -216,10 +216,10 @@
     },
     {
       "board": "workday:ardian",
-      "ok": true,
-      "fetched": 2,
+      "ok": false,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/job/Singapore/Sales-Intern---4-Jan-2027-I-Singapore--M-F-_JR1002250"
     },
     {
       "board": "workday:rhb",
@@ -238,8 +238,8 @@
     {
       "board": "workable:qcp-group",
       "ok": true,
-      "fetched": 8,
-      "kept": 5,
+      "fetched": 7,
+      "kept": 4,
       "error": ""
     },
     {
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 82,
-      "kept": 78,
+      "fetched": 83,
+      "kept": 79,
       "error": ""
     }
   ]
