@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-20",
-  "run_at": "2026-11-20T02:41:24+00:00",
-  "new_relevant": 2,
+  "date": "2026-11-21",
+  "run_at": "2026-11-21T02:52:34+00:00",
+  "new_relevant": 0,
   "new_tier1": 0,
-  "new_tier2": 2,
-  "new_unclear": 1,
-  "closed": 2,
+  "new_tier2": 0,
+  "new_unclear": 0,
+  "closed": 0,
   "open": 137,
   "boards_configured": 36,
-  "boards_checked": 25,
-  "boards_failed": 11,
+  "boards_checked": 24,
+  "boards_failed": 12,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -21,7 +21,7 @@
     {
       "board": "greenhouse:quberesearchandtechnologies",
       "ok": true,
-      "fetched": 12,
+      "fetched": 11,
       "kept": 2,
       "error": ""
     },
@@ -126,7 +126,7 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 117,
+      "fetched": 118,
       "kept": 1,
       "error": ""
     },
@@ -174,10 +174,10 @@
     },
     {
       "board": "workday:glencorecorp",
-      "ok": true,
-      "fetched": 2,
-      "kept": 2,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://glencorecorp.wd3.myworkdayjobs.com/wday/cxs/glencorecorp/External/jobs"
     },
     {
       "board": "workday:pwc",
@@ -219,7 +219,7 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/job/Singapore/Sales-Intern---4-Jan-2027-I-Singapore--M-F-_JR1002250"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/job/Singapore/Compliance-Team-Intern---December-2026---Singapore--M-F-_JR1002248"
     },
     {
       "board": "workday:rhb",
@@ -230,10 +230,10 @@
     },
     {
       "board": "workday:cdpq",
-      "ok": false,
-      "fetched": 0,
+      "ok": true,
+      "fetched": 3,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cdpq.wd10.myworkdayjobs.com/wday/cxs/cdpq/CDPQ-recrutement-universitaire/jobs"
+      "error": ""
     },
     {
       "board": "workable:qcp-group",
@@ -258,10 +258,10 @@
     },
     {
       "board": "internsg",
-      "ok": true,
-      "fetched": 83,
-      "kept": 79,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/axs-pte-ltd-data-analytics-intern/?f_p=107"
     }
   ]
 }
