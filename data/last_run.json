@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-21",
-  "run_at": "2026-11-21T02:52:34+00:00",
-  "new_relevant": 0,
-  "new_tier1": 0,
+  "date": "2026-11-22",
+  "run_at": "2026-11-22T01:42:06+00:00",
+  "new_relevant": 2,
+  "new_tier1": 2,
   "new_tier2": 0,
   "new_unclear": 0,
-  "closed": 0,
-  "open": 137,
+  "closed": 3,
+  "open": 136,
   "boards_configured": 36,
-  "boards_checked": 24,
-  "boards_failed": 12,
+  "boards_checked": 26,
+  "boards_failed": 10,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -126,7 +126,7 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 118,
+      "fetched": 117,
       "kept": 1,
       "error": ""
     },
@@ -160,10 +160,10 @@
     },
     {
       "board": "workday:mufgub",
-      "ok": false,
+      "ok": true,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/MUFG-EarlyCareers/jobs"
+      "error": ""
     },
     {
       "board": "workday:blackstone",
@@ -212,14 +212,14 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/job/Singapore/Intern--Compliance-Singapore_REQ-10123032"
     },
     {
       "board": "workday:ardian",
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/job/Singapore/Compliance-Team-Intern---December-2026---Singapore--M-F-_JR1002248"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/jobs"
     },
     {
       "board": "workday:rhb",
@@ -258,10 +258,10 @@
     },
     {
       "board": "internsg",
-      "ok": false,
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.internsg.com/job/axs-pte-ltd-data-analytics-intern/?f_p=107"
+      "ok": true,
+      "fetched": 83,
+      "kept": 78,
+      "error": ""
     }
   ]
 }
