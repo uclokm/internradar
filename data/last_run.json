@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-22",
-  "run_at": "2026-11-22T01:42:06+00:00",
-  "new_relevant": 2,
-  "new_tier1": 2,
+  "date": "2026-11-23",
+  "run_at": "2026-11-23T02:01:41+00:00",
+  "new_relevant": 0,
+  "new_tier1": 0,
   "new_tier2": 0,
   "new_unclear": 0,
-  "closed": 3,
-  "open": 136,
+  "closed": 2,
+  "open": 134,
   "boards_configured": 36,
   "boards_checked": 26,
   "boards_failed": 10,
@@ -63,7 +63,7 @@
     {
       "board": "greenhouse:point72",
       "ok": true,
-      "fetched": 11,
+      "fetched": 12,
       "kept": 2,
       "error": ""
     },
@@ -160,17 +160,17 @@
     },
     {
       "board": "workday:mufgub",
-      "ok": true,
-      "fetched": 0,
-      "kept": 0,
-      "error": ""
-    },
-    {
-      "board": "workday:blackstone",
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/MUFG-EarlyCareers/jobs"
+    },
+    {
+      "board": "workday:blackstone",
+      "ok": true,
+      "fetched": 1,
+      "kept": 1,
+      "error": ""
     },
     {
       "board": "workday:glencorecorp",
@@ -212,7 +212,7 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/job/Singapore/Intern--Compliance-Singapore_REQ-10123032"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs"
     },
     {
       "board": "workday:ardian",
@@ -259,8 +259,8 @@
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 83,
-      "kept": 78,
+      "fetched": 81,
+      "kept": 76,
       "error": ""
     }
   ]
