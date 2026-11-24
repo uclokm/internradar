@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-23",
-  "run_at": "2026-11-23T02:01:41+00:00",
+  "date": "2026-11-24",
+  "run_at": "2026-11-24T05:37:11+00:00",
   "new_relevant": 0,
   "new_tier1": 0,
   "new_tier2": 0,
   "new_unclear": 0,
-  "closed": 2,
+  "closed": 0,
   "open": 134,
   "boards_configured": 36,
   "boards_checked": 26,
@@ -21,7 +21,7 @@
     {
       "board": "greenhouse:quberesearchandtechnologies",
       "ok": true,
-      "fetched": 11,
+      "fetched": 13,
       "kept": 2,
       "error": ""
     },
@@ -42,7 +42,7 @@
     {
       "board": "greenhouse:jumptrading",
       "ok": true,
-      "fetched": 17,
+      "fetched": 18,
       "kept": 3,
       "error": ""
     },
@@ -56,7 +56,7 @@
     {
       "board": "greenhouse:virtu",
       "ok": true,
-      "fetched": 13,
+      "fetched": 12,
       "kept": 0,
       "error": ""
     },
@@ -126,7 +126,7 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 117,
+      "fetched": 114,
       "kept": 1,
       "error": ""
     },
@@ -149,7 +149,7 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://keppel.wd3.myworkdayjobs.com/wday/cxs/keppel/KeppelCareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://keppel.wd3.myworkdayjobs.com/wday/cxs/keppel/KeppelCareers/job/Singapore/XMLNAME--Keppel-Internship-Programme-2027--Intern--Cybersecurity-Analyst--Jan---May-2027-_10016374"
     },
     {
       "board": "workday:capitaland",
@@ -167,10 +167,10 @@
     },
     {
       "board": "workday:blackstone",
-      "ok": true,
-      "fetched": 1,
-      "kept": 1,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs"
     },
     {
       "board": "workday:glencorecorp",
@@ -212,14 +212,14 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/job/Singapore/Intern--Compliance--Regional-_REQ-10123033"
     },
     {
       "board": "workday:ardian",
-      "ok": false,
-      "fetched": 0,
+      "ok": true,
+      "fetched": 2,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/jobs"
+      "error": ""
     },
     {
       "board": "workday:rhb",
