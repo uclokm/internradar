@@ -1,15 +1,15 @@
 {
-  "date": "2026-11-24",
-  "run_at": "2026-11-24T05:37:11+00:00",
-  "new_relevant": 0,
-  "new_tier1": 0,
-  "new_tier2": 0,
+  "date": "2026-11-25",
+  "run_at": "2026-11-25T04:37:37+00:00",
+  "new_relevant": 3,
+  "new_tier1": 1,
+  "new_tier2": 2,
   "new_unclear": 0,
-  "closed": 0,
-  "open": 134,
+  "closed": 5,
+  "open": 133,
   "boards_configured": 36,
-  "boards_checked": 26,
-  "boards_failed": 10,
+  "boards_checked": 22,
+  "boards_failed": 14,
   "boards": [
     {
       "board": "greenhouse:drweng",
@@ -21,7 +21,7 @@
     {
       "board": "greenhouse:quberesearchandtechnologies",
       "ok": true,
-      "fetched": 13,
+      "fetched": 11,
       "kept": 2,
       "error": ""
     },
@@ -49,7 +49,7 @@
     {
       "board": "greenhouse:janestreet",
       "ok": true,
-      "fetched": 14,
+      "fetched": 15,
       "kept": 0,
       "error": ""
     },
@@ -63,7 +63,7 @@
     {
       "board": "greenhouse:point72",
       "ok": true,
-      "fetched": 12,
+      "fetched": 13,
       "kept": 2,
       "error": ""
     },
@@ -98,7 +98,7 @@
     {
       "board": "greenhouse:stripe",
       "ok": true,
-      "fetched": 57,
+      "fetched": 56,
       "kept": 2,
       "error": ""
     },
@@ -126,7 +126,7 @@
     {
       "board": "greenhouse:binance",
       "ok": true,
-      "fetched": 114,
+      "fetched": 117,
       "kept": 1,
       "error": ""
     },
@@ -140,8 +140,8 @@
     {
       "board": "workday:ocbc",
       "ok": true,
-      "fetched": 3,
-      "kept": 2,
+      "fetched": 1,
+      "kept": 1,
       "error": ""
     },
     {
@@ -149,7 +149,7 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://keppel.wd3.myworkdayjobs.com/wday/cxs/keppel/KeppelCareers/job/Singapore/XMLNAME--Keppel-Internship-Programme-2027--Intern--Cybersecurity-Analyst--Jan---May-2027-_10016374"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://keppel.wd3.myworkdayjobs.com/wday/cxs/keppel/KeppelCareers/job/Singapore/XMLNAME--Keppel-Internship-Programme-2027--Intern--Facility-Management--Jan---May-2027-_10016269"
     },
     {
       "board": "workday:capitaland",
@@ -191,7 +191,7 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tencent.wd1.myworkdayjobs.com/wday/cxs/tencent/Tencent_Careers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tencent.wd1.myworkdayjobs.com/wday/cxs/tencent/Tencent_Careers/job/Singapore-CapitaSky/Financial-Accounting-and-Analysis-Intern_R108293-1"
     },
     {
       "board": "workday:fwd",
@@ -212,14 +212,14 @@
       "ok": false,
       "fetched": 0,
       "kept": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/job/Singapore/Intern--Compliance--Regional-_REQ-10123033"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs"
     },
     {
       "board": "workday:ardian",
-      "ok": true,
-      "fetched": 2,
+      "ok": false,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/jobs"
     },
     {
       "board": "workday:rhb",
@@ -237,30 +237,30 @@
     },
     {
       "board": "workable:qcp-group",
-      "ok": true,
-      "fetched": 7,
-      "kept": 4,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/qcp-group/jobs"
     },
     {
       "board": "workable:moomoo",
-      "ok": true,
-      "fetched": 5,
-      "kept": 2,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/moomoo/jobs"
     },
     {
       "board": "workable:iglooinsure",
-      "ok": true,
-      "fetched": 1,
-      "kept": 1,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/iglooinsure/jobs"
     },
     {
       "board": "internsg",
       "ok": true,
-      "fetched": 81,
-      "kept": 76,
+      "fetched": 83,
+      "kept": 77,
       "error": ""
     }
   ]
