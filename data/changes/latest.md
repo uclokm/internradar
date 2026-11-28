@@ -1,18 +1,17 @@
-# InternRadar — Fri 27 Nov 2026
+# InternRadar — Sat 28 Nov 2026
 
-1 new relevant role(s) · 4 closed · 132 open · checked 26 of 36 configured boards · **10 failed**
+3 new relevant role(s) · 4 closed · 131 open · checked 25 of 36 configured boards · **11 failed**
 
 ## New roles (highest score first)
-- **69** · **Employflow** — [Finance Internship](https://www.internsg.com/job/employflow-finance-internship/) · Nov 2026 – 29 Dec 2026 · Tier 1 (strong)
-
-## New, dates unclear (worth a manual look)
-- OCBC — [International Wealth Affluent Relationship Manager](https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Emerging-Affluent-Relationship-Manager---Premier-Banking-Asia_JR00006451)
+- **88** · **Adept Business Consultancy Pte Ltd** — [Portfolio Strategy Intern](https://www.internsg.com/job/adept-business-consultancy-pte-ltd-portfolio-strategy-intern/) · Flexible start, min 6 months · Tier 2 (stretch)
+- **86** · **Martin Boey Organisation** — [Portfolio Strategy Intern](https://www.internsg.com/job/martin-boey-organisation-portfolio-strategy-intern/) · Flexible start, min 6 months · Tier 2 (stretch)
+- **84** · **EtonHouse International Holdings Pte Ltd** — [Intern, Finance Data and Analytics  (AI Analyst and Data Lakehouse Project)](https://www.internsg.com/job/etonhouse-international-holdings-pte-ltd-intern-finance-data-and-analytics-ai-analyst-and-data-lakehouse-project/) · 4 Jan 2027 – 3 Apr 2027 · Tier 1 (stretch)
 
 ## Closed since the last run
-- OCBC — Relationship Manager, Enterprise Banking International, Chinese Corporate Business, Core Industries
-- Lion Global Investors Ltd — Intern, Client Solutions Office
-- Prestige Corporate Services Pte Ltd — Finance Intern
-- Envirotainer (SIN) Pte Ltd — Financial Planning & Analysis Intern
+- QCP — Intern, Finance (Jan - Jun 2027)
+- QCP — Intern, Data (Jan - Jun 2027)
+- QCP — Intern, Data Analytics (Jan - Jun 2027)
+- Lion Global Investors Ltd — Intern, International & Institutional Business
 
 ## Boards that could not be checked
 Their postings were left open (not marked closed).
@@ -22,7 +21,8 @@ Their postings were left open (not marked closed).
 - `workday:blackstone` — HTTPError: 429 Client Error: Too Many Requests for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs
 - `workday:glencorecorp` — HTTPError: 429 Client Error: Too Many Requests for url: https://glencorecorp.wd3.myworkdayjobs.com/wday/cxs/glencorecorp/External/jobs
 - `workday:pwc` — HTTPError: 429 Client Error: Too Many Requests for url: https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Campus_Careers/jobs
-- `workday:tencent` — HTTPError: 429 Client Error: Too Many Requests for url: https://tencent.wd1.myworkdayjobs.com/wday/cxs/tencent/Tencent_Careers/job/Singapore-CapitaSky/Data---AI-Analytics-Intern_R108391
+- `workday:tencent` — HTTPError: 429 Client Error: Too Many Requests for url: https://tencent.wd1.myworkdayjobs.com/wday/cxs/tencent/Tencent_Careers/jobs
 - `workday:fwd` — HTTPError: 429 Client Error: Too Many Requests for url: https://fwd.wd3.myworkdayjobs.com/wday/cxs/fwd/FWDcareersite/jobs
-- `workday:hlb` — HTTPError: 429 Client Error: Too Many Requests for url: https://hlb.wd3.myworkdayjobs.com/wday/cxs/hlb/HLBCareers/jobs
+- `workday:hlb` — HTTPError: 429 Client Error: Too Many Requests for url: https://hlb.wd3.myworkdayjobs.com/wday/cxs/hlb/HLBCareers/job/Singapore/Intern---Compliance--KYC-_JR0000026623
 - `workday:ing` — HTTPError: 429 Client Error: Too Many Requests for url: https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs
+- `workday:ardian` — HTTPError: 429 Client Error: Too Many Requests for url: https://ardian.wd103.myworkdayjobs.com/wday/cxs/ardian/ArdianCareers/jobs
